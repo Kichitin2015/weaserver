@@ -3439,6 +3439,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/misc/pink_dye_from_blush_blossom": {
+    "criteria": {
+      "has_item": "2025-05-25 23:08:27 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/nature_stone_pillar_stonecutting_nature_stone": {
     "criteria": {
       "has_item": "2025-05-25 22:27:30 +0000"
