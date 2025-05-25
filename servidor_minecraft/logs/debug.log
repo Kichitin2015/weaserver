@@ -4771,3 +4771,18 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 [25May2025 22:38:43.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> nada de lo de el normal
 [25May2025 22:38:59.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ombid> perame
 [25May2025 22:39:03.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> okei
+[25May2025 22:42:44.603] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25May2025 22:42:44.614] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25May2025 22:43:51.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid has completed the challenge [Almost Unkillable]
+[25May2025 22:43:51.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid was slain by Stonelet
+[25May2025 22:43:51.123] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Ombid with unique ID travelersbackpack.chicken_25.05.2025-22.43.51.dat
+[25May2025 22:43:51.125] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -3612 Y: 134 Z: -718
+[25May2025 22:43:51.126] [Server thread/DEBUG] [tombstone/]: A new grave of the player Ombid was created at position [x:-3613, y:134, z:-719, dim:blue_skies:everbright]
+[25May2025 22:43:51.136] [Server thread/INFO] [tombstone/]: The player Ombid has successfully been saved
+[25May2025 22:43:56.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> que
+[25May2025 22:45:00.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> oye
+[25May2025 22:45:06.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> tienes corazones?
+[25May2025 22:47:44.585] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25May2025 22:47:44.593] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25May2025 22:48:01.020] [Server thread/INFO] [Scaling Health/]: Blight Frost Spirit was killed by krinpa
+[25May2025 22:50:51.288] [Server thread/INFO] [Scaling Health/]: Blight Armored Frost Spirit was killed by krinpa
