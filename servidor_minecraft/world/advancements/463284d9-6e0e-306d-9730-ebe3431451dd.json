@@ -3433,6 +3433,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/backpack_tank": {
+    "criteria": {
+      "has_iron": "2025-05-25 22:55:54 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/nature_stone_pillar_stonecutting_nature_stone": {
     "criteria": {
       "has_item": "2025-05-25 22:27:30 +0000"
@@ -3481,9 +3487,27 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/iron": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-25 22:55:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/tinted_glass": {
     "criteria": {
       "has_amethyst_shard": "2025-05-25 22:26:45 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/iron_tier_upgrade": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-25 22:55:54 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/hose_nozzle": {
+    "criteria": {
+      "has_iron": "2025-05-25 22:55:54 +0000"
     },
     "done": true
   },
@@ -3514,6 +3538,12 @@
   "blue_skies:recipes/building_blocks/nature_stonebrick_wall_stonecutting_nature_stone": {
     "criteria": {
       "has_item": "2025-05-25 22:27:30 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/cake": {
+    "criteria": {
+      "has_egg": "2025-05-25 22:56:00 +0000"
     },
     "done": true
   },

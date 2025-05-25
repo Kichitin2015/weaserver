@@ -4786,3 +4786,43 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 [25May2025 22:47:44.593] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [25May2025 22:48:01.020] [Server thread/INFO] [Scaling Health/]: Blight Frost Spirit was killed by krinpa
 [25May2025 22:50:51.288] [Server thread/INFO] [Scaling Health/]: Blight Armored Frost Spirit was killed by krinpa
+[25May2025 22:52:44.589] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25May2025 22:52:44.601] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25May2025 22:56:07.505] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[25May2025 22:56:07.506] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[25May2025 22:56:07.515] [Server thread/DEBUG] [twilightforest/]: Player Ombid (300f2cb3-73b8-369a-bd50-5b2db1878249) respawned and received items held in storage
+[25May2025 22:56:15.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ombid> me mori
+[25May2025 22:56:24.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> angel
+[25May2025 22:56:24.594] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / blue_skies:everbright]
+[25May2025 22:56:24.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to krinpa]
+[25May2025 22:56:29.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> para que es esto
+[25May2025 22:56:56.066] [Server thread/DEBUG] [mixin/]: Mixing ItemInputMixin from tombstone.mixins.json into net.minecraft.commands.arguments.item.ItemInput
+[25May2025 22:56:56.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Gave 1 [Ender Pearl] to Ombid]
+[25May2025 22:56:58.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid has made the advancement [The Most Useful Key]
+[25May2025 22:57:03.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid has reached the goal [A Fast Comeback]
+[25May2025 22:57:44.598] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25May2025 22:57:44.606] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25May2025 22:57:46.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> mi cancion
+[25May2025 22:58:09.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ombid> porque no me tiraste paro xd?
+[25May2025 22:59:32.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> estas
+[25May2025 22:59:34.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> aaaaaa
+[25May2025 22:59:35.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> pqqqqqq
+[25May2025 22:59:43.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> estaba farmeando
+[25May2025 22:59:55.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> no pense que te habias quedado ahi
+[25May2025 23:00:00.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to Ombid]
+[25May2025 23:00:14.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> y tu
+[25May2025 23:00:18.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> armadura
+[25May2025 23:00:26.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ombid> Me rompieron
+[25May2025 23:00:33.733] [Server thread/INFO] [Scaling Health/]: Blight Stonelet was killed by krinpa
+[25May2025 23:00:45.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> chispas
+[25May2025 23:00:47.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> ten la mia
+[25May2025 23:00:50.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ombid> nom
+[25May2025 23:01:00.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ombid> solo el casco me verguearon
+[25May2025 23:01:08.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ombid> lo otro esta como a medio golpe
+[25May2025 23:01:15.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ombid> me hago uno rapido
+[25May2025 23:01:19.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> pospebepe
+[25May2025 23:01:25.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ombid> tengo que reparar todo
+[25May2025 23:02:28.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ombid> ijole
+[25May2025 23:02:33.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ombid> no, si me va tardar hacer el casco
+[25May2025 23:02:44.592] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25May2025 23:02:44.600] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
