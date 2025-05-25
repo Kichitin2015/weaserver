@@ -348,3 +348,6 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 [25May2025 23:08:15.071] [Server thread/INFO] [Scaling Health/]: Blight Armored Frost Spirit was killed by Ombid
 [25May2025 23:08:15.073] [Server thread/INFO] [Scaling Health/]: Blight Armored Frost Spirit was killed by Ombid
 [25May2025 23:08:20.866] [Server thread/INFO] [Scaling Health/]: Blight Armored Frost Spirit was killed by Ombid
+[25May2025 23:14:27.266] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: krinpa lost connection: Disconnected
+[25May2025 23:14:27.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa left the game
+[25May2025 23:14:27.267] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player krinpa[463284d9-6e0e-306d-9730-ebe3431451dd]
