@@ -1,3 +1,4 @@
+
 @echo off
 REM Forge requires a configured set of both JVM and program arguments.
 REM Add custom JVM arguments to the user_jvm_args.txt
