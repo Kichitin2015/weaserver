@@ -246,3 +246,10 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 [26May2025 06:00:36.139] [Server thread/INFO] [Scaling Health/]: Blight Armored Frost Spirit was killed by Ombid
 [26May2025 06:01:00.795] [Server thread/INFO] [Scaling Health/]: Blight Armored Frost Spirit was killed by Ombid
 [26May2025 06:01:02.591] [Server thread/INFO] [Scaling Health/]: Blight Armored Frost Spirit was killed by Ombid
+[26May2025 06:04:19.338] [Server thread/INFO] [Scaling Health/]: Blight Stray was killed by Ombid
+[26May2025 06:04:32.190] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{Ombid})
+[26May2025 06:05:40.958] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/2435, l='ServerLevel[world]', x=-1043.11, y=77.00, z=1270.82] died, message: 'Librarian was slain by Zombie'
+[26May2025 06:05:43.458] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/2434, l='ServerLevel[world]', x=-1042.30, y=76.00, z=1272.66] died, message: 'Farmer was slain by Zombie'
+[26May2025 06:06:02.457] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/2436, l='ServerLevel[world]', x=-1032.59, y=77.00, z=1272.01] died, message: 'Fletcher was slain by Zombie'
+[26May2025 06:06:05.207] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/2429, l='ServerLevel[world]', x=-1035.71, y=76.00, z=1271.42] died, message: 'Librarian was slain by Zombie'
+[26May2025 06:07:02.077] [Server thread/INFO] [Scaling Health/]: Blight Zombie was killed by Ombid
