@@ -262,3 +262,12 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 [26May2025 06:39:38.684] [Server thread/INFO] [Scaling Health/]: Blight Armored Frost Spirit was killed by Ombid
 [26May2025 06:48:05.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Creative Mode]
 [26May2025 06:48:07.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Survival Mode]
+[26May2025 07:07:39.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Summoned new Spider]
+[26May2025 07:07:39.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Summoned new Spider]
+[26May2025 07:07:39.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Summoned new Spider]
+[26May2025 07:07:40.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Summoned new Spider]
+[26May2025 07:08:16.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Summoned new Spider]
+[26May2025 07:08:16.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Summoned new Spider]
+[26May2025 07:08:17.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Summoned new Spider]
+[26May2025 07:08:17.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Summoned new Spider]
+[26May2025 07:08:17.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Summoned new Spider]
