@@ -253,3 +253,5 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 [26May2025 06:06:02.457] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/2436, l='ServerLevel[world]', x=-1032.59, y=77.00, z=1272.01] died, message: 'Fletcher was slain by Zombie'
 [26May2025 06:06:05.207] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/2429, l='ServerLevel[world]', x=-1035.71, y=76.00, z=1271.42] died, message: 'Librarian was slain by Zombie'
 [26May2025 06:07:02.077] [Server thread/INFO] [Scaling Health/]: Blight Zombie was killed by Ombid
+[26May2025 06:22:01.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Creative Mode]
+[26May2025 06:22:06.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Survival Mode]
