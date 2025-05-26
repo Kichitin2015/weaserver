@@ -301,3 +301,65 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 [26May2025 07:43:11.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Survival Mode]
 [26May2025 07:43:31.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid has completed the challenge [Return to Sender]
 [26May2025 07:43:38.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Gave 1 [Acacia Boat] to Ombid]
+[26May2025 07:43:48.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Spectator Mode]
+[26May2025 07:43:52.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Survival Mode]
+[26May2025 07:43:57.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Gave 1 [Acacia Boat] to Ombid]
+[26May2025 07:44:15.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid has completed the challenge [Hot Tourist Destinations]
+[26May2025 07:44:41.798] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['krinpa'/23398, l='ServerLevel[world]', x=132.08, y=55.00, z=522.34] died: krinpa was slain by Ombid
+[26May2025 07:44:48.012] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['krinpa'/23397, l='ServerLevel[world]', x=127.38, y=50.00, z=520.45] died: krinpa was slain by Ombid
+[26May2025 07:45:02.651] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['krinpa'/23396, l='ServerLevel[world]', x=127.20, y=47.00, z=518.57] died: krinpa was slain by Ombid
+[26May2025 07:48:21.948] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=243, y=64, z=763} BlockPos{x=243, y=64, z=765}
+[26May2025 07:51:24.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Spectator Mode]
+[26May2025 07:51:30.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Survival Mode]
+[26May2025 07:52:36.115] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ombid lost connection: Disconnected
+[26May2025 07:52:36.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid left the game
+[26May2025 07:52:36.115] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player Ombid[300f2cb3-73b8-369a-bd50-5b2db1878249]
+[26May2025 07:52:37.472] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[26May2025 07:52:37.522] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[26May2025 07:52:37.569] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[26May2025 07:52:37.626] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[26May2025 07:52:37.670] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[26May2025 07:52:37.722] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[26May2025 07:52:37.769] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[26May2025 07:52:37.821] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[26May2025 07:52:37.874] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[26May2025 07:52:37.920] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[26May2025 07:52:37.970] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[26May2025 07:52:38.020] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[26May2025 07:52:38.213] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[26May2025 07:52:38.215] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[26May2025 07:52:38.215] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[26May2025 07:52:38.226] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[26May2025 07:52:41.475] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ombid[/100.103.125.20:50978] logged in with entity id 25929 at (-151.2034450959147, 42.0, 872.9500073189507)
+[26May2025 07:52:41.476] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Ombid
+[26May2025 07:52:41.476] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Ombid
+[26May2025 07:52:41.477] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Ombid
+[26May2025 07:52:41.477] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Ombid
+[26May2025 07:52:41.479] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Ombid
+[26May2025 07:52:41.483] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Ombid
+[26May2025 07:52:41.483] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Ombid
+[26May2025 07:52:41.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid joined the game
+[26May2025 07:52:41.519] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player Ombid just logged in with id 300f2cb3-73b8-369a-bd50-5b2db1878249
+[26May2025 07:52:41.522] [ForkJoinPool-4-worker-2/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player Ombid[300f2cb3-73b8-369a-bd50-5b2db1878249]
+[26May2025 07:52:41.657] [ForkJoinPool-4-worker-2/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://playerdb.co/api/player/minecraft/Ombid downloaded
+[26May2025 07:52:44.759] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ombid lost connection: Disconnected
+[26May2025 07:52:44.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid left the game
+[26May2025 07:52:44.760] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player Ombid[300f2cb3-73b8-369a-bd50-5b2db1878249]
+[26May2025 07:52:53.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[26May2025 07:52:53.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[26May2025 07:52:53.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[26May2025 07:52:53.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[26May2025 07:52:53.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[26May2025 07:52:53.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everbright
+[26May2025 07:52:53.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[26May2025 07:52:53.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everdawn
+[26May2025 07:52:53.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[26May2025 07:52:53.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[26May2025 07:52:53.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[26May2025 07:52:53.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everbright): All chunks are saved
+[26May2025 07:52:53.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[26May2025 07:52:53.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everdawn): All chunks are saved
+[26May2025 07:52:53.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[26May2025 07:52:53.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[26May2025 07:52:53.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[26May2025 07:52:53.670] [Server thread/INFO] [Calio/]: Removing Dynamic Registries for: net.minecraft.server.dedicated.DedicatedServer@6c3b5a80
