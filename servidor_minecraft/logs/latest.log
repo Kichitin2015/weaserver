@@ -185,3 +185,64 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 [26May2025 05:42:24.052] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: clickadv.json
 [26May2025 05:42:24.052] [Server thread/WARN] [ModernFix/]: Dedicated server took 26.276 seconds to load
 [26May2025 05:42:24.055] [Server thread/INFO] [mixin/]: Mixing common.MixinServerStatus from mixins/common/nochatreports.mixins.json into net.minecraft.network.protocol.status.ServerStatus
+[26May2025 05:53:41.415] [Netty Epoll Server IO #1/INFO] [mixin/]: Mixing server.MixinServerboundChatCommandPacket from mixins/common/nochatreports.mixins.json into net.minecraft.network.protocol.game.ServerboundChatCommandPacket
+[26May2025 05:53:41.417] [Netty Epoll Server IO #1/INFO] [mixin/]: Mixing server.MixinServerboundChatPacket from mixins/common/nochatreports.mixins.json into net.minecraft.network.protocol.game.ServerboundChatPacket
+[26May2025 05:53:41.419] [Netty Epoll Server IO #1/INFO] [mixin/]: Mixing server.MixinServerboundChatSessionUpdatePacket from mixins/common/nochatreports.mixins.json into net.minecraft.network.protocol.game.ServerboundChatSessionUpdatePacket
+[26May2025 05:53:59.116] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[26May2025 05:53:59.122] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[26May2025 05:53:59.172] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[26May2025 05:53:59.222] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[26May2025 05:53:59.272] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[26May2025 05:53:59.321] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[26May2025 05:53:59.371] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[26May2025 05:53:59.423] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[26May2025 05:53:59.474] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[26May2025 05:53:59.525] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[26May2025 05:53:59.572] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[26May2025 05:53:59.621] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[26May2025 05:53:59.871] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[26May2025 05:53:59.874] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[26May2025 05:53:59.874] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[26May2025 05:53:59.881] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[26May2025 05:54:03.181] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ombid[/100.103.125.20:50295] logged in with entity id 469 at (-881.4818697191138, 40.0, -2878.6244331057696)
+[26May2025 05:54:03.202] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Ombid
+[26May2025 05:54:03.203] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Ombid
+[26May2025 05:54:03.204] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Ombid
+[26May2025 05:54:03.205] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Ombid
+[26May2025 05:54:03.210] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Ombid
+[26May2025 05:54:03.215] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Ombid
+[26May2025 05:54:03.215] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Ombid
+[26May2025 05:54:03.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid joined the game
+[26May2025 05:54:03.354] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player Ombid just logged in with id 300f2cb3-73b8-369a-bd50-5b2db1878249
+[26May2025 05:54:03.363] [ForkJoinPool-4-worker-1/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player Ombid[300f2cb3-73b8-369a-bd50-5b2db1878249]
+[26May2025 05:54:03.460] [ForkJoinPool-4-worker-1/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://playerdb.co/api/player/minecraft/Ombid downloaded
+[26May2025 05:54:52.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Creative Mode]
+[26May2025 05:55:34.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Applied enchantment Protection IV to Ombid's item]
+[26May2025 05:56:06.880] [Server thread/INFO] [Scaling Health/]: Blight Frost Spirit has died
+[26May2025 05:56:06.882] [Server thread/INFO] [Scaling Health/]: Blight Frost Spirit has died
+[26May2025 05:56:06.884] [Server thread/INFO] [Scaling Health/]: Blight Frost Spirit has died
+[26May2025 05:56:06.902] [Server thread/INFO] [Scaling Health/]: Blight Frost Spirit has died
+[26May2025 05:56:06.907] [Server thread/INFO] [Scaling Health/]: Blight Frost Spirit has died
+[26May2025 05:56:06.925] [Server thread/INFO] [Scaling Health/]: Blight Frost Spirit has died
+[26May2025 05:56:06.935] [Server thread/INFO] [Scaling Health/]: Blight Frost Spirit has died
+[26May2025 05:56:06.937] [Server thread/INFO] [Scaling Health/]: Blight Frost Spirit has died
+[26May2025 05:56:06.940] [Server thread/INFO] [Scaling Health/]: Blight Frost Spirit has died
+[26May2025 05:56:06.952] [Server thread/INFO] [Scaling Health/]: Blight Frost Spirit has died
+[26May2025 05:56:06.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Killed 267 entities]
+[26May2025 05:57:12.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Survival Mode]
+[26May2025 05:57:41.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Creative Mode]
+[26May2025 05:57:49.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Survival Mode]
+[26May2025 05:58:03.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Creative Mode]
+[26May2025 05:58:17.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Survival Mode]
+[26May2025 05:58:19.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Creative Mode]
+[26May2025 05:58:23.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Survival Mode]
+[26May2025 05:58:45.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Creative Mode]
+[26May2025 05:58:54.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Survival Mode]
+[26May2025 05:59:00.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Creative Mode]
+[26May2025 05:59:12.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Survival Mode]
+[26May2025 05:59:45.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Creative Mode]
+[26May2025 06:00:06.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Survival Mode]
+[26May2025 06:00:10.837] [Server thread/INFO] [Scaling Health/]: Blight Armored Frost Spirit was killed by Ombid
+[26May2025 06:00:36.139] [Server thread/INFO] [Scaling Health/]: Blight Armored Frost Spirit was killed by Ombid
+[26May2025 06:01:00.795] [Server thread/INFO] [Scaling Health/]: Blight Armored Frost Spirit was killed by Ombid
+[26May2025 06:01:02.591] [Server thread/INFO] [Scaling Health/]: Blight Armored Frost Spirit was killed by Ombid
