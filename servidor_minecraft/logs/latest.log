@@ -271,3 +271,9 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 [26May2025 07:08:17.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Summoned new Spider]
 [26May2025 07:08:17.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Summoned new Spider]
 [26May2025 07:08:17.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Summoned new Spider]
+[26May2025 07:24:22.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Spectator Mode]
+[26May2025 07:24:30.452] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #dungeons_arise:explorer_maps/monastery (dungeons_arise:monastery) took 29 ms
+[26May2025 07:24:32.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to -879.500000, 77.000000, 1056.500000]
+[26May2025 07:24:41.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Survival Mode]
+[26May2025 07:24:59.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Gave 10 [Bone] to Ombid]
+[26May2025 07:25:00.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid has made the advancement [Best Friends Forever]

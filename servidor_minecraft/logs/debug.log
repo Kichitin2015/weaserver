@@ -4472,3 +4472,17 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 [26May2025 07:17:24.034] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [26May2025 07:22:24.027] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [26May2025 07:22:24.035] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26May2025 07:24:22.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Spectator Mode]
+[26May2025 07:24:30.452] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #dungeons_arise:explorer_maps/monastery (dungeons_arise:monastery) took 29 ms
+[26May2025 07:24:32.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to -879.500000, 77.000000, 1056.500000]
+[26May2025 07:24:41.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Survival Mode]
+[26May2025 07:24:59.400] [Server thread/DEBUG] [mixin/]: Mixing ItemInputMixin from tombstone.mixins.json into net.minecraft.commands.arguments.item.ItemInput
+[26May2025 07:24:59.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Gave 10 [Bone] to Ombid]
+[26May2025 07:25:00.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid has made the advancement [Best Friends Forever]
+[26May2025 07:25:08.249] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Return portal found, redirecting! :)
+[26May2025 07:25:08.255] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=-903, y=89, z=963} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[26May2025 07:25:08.256] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=-903, y=89, z=963} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[26May2025 07:27:24.025] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26May2025 07:27:24.033] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26May2025 07:32:24.028] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26May2025 07:32:24.036] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
