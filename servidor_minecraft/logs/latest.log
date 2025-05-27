@@ -318,3 +318,16 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 [27May2025 03:39:12.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to Ombid]
 [27May2025 03:39:30.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to -3540.500000, 149.000000, -709.500000]
 [27May2025 03:39:35.786] [Server thread/INFO] [Scaling Health/]: Blight Armored Frost Spirit was killed by Ombid
+[27May2025 03:43:32.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to krinpa]
+[27May2025 03:47:21.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to Ombid]
+[27May2025 03:48:05.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa was slain by Starlit Crusher
+[27May2025 03:48:05.479] [Server thread/INFO] [tombstone/]: The player krinpa has successfully been saved
+[27May2025 03:48:05.480] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: krinpa moved too quickly! -28.171073347979927,0.981243578885028,8.025723144702738
+[27May2025 03:48:09.136] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ombid moved wrongly!
+[27May2025 03:48:11.929] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[27May2025 03:48:11.929] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[27May2025 03:48:15.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to Ombid]
+[27May2025 03:48:49.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Gave 1 [Ender Pearl] to krinpa]
+[27May2025 03:50:11.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to krinpa]
+[27May2025 03:52:15.979] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ombid moved wrongly!
+[27May2025 03:52:41.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to Ombid]
