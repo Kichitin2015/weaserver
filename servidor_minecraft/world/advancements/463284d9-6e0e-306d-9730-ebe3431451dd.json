@@ -3427,27 +3427,9 @@
     },
     "done": true
   },
-  "blue_skies:recipes/building_blocks/nature_stonebrick_stonecutting_nature_stone": {
+  "blue_skies:everbright/regen_brewberry": {
     "criteria": {
-      "has_item": "2025-05-25 22:27:30 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/backpack_tank": {
-    "criteria": {
-      "has_iron": "2025-05-25 22:55:54 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/misc/pink_dye_from_blush_blossom": {
-    "criteria": {
-      "has_item": "2025-05-25 23:08:27 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/nature_stone_pillar_stonecutting_nature_stone": {
-    "criteria": {
-      "has_item": "2025-05-25 22:27:30 +0000"
+      "have_pink_brewberry": "2025-05-25 22:25:48 +0000"
     },
     "done": true
   },
@@ -3457,15 +3439,39 @@
     },
     "done": true
   },
-  "blue_skies:recipes/building_blocks/nature_stone_stairs": {
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-25 22:26:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-25 22:26:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-25 22:26:45 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/nature_stonebrick_stonecutting_nature_stone": {
     "criteria": {
       "has_item": "2025-05-25 22:27:30 +0000"
     },
     "done": true
   },
-  "blue_skies:everbright/regen_brewberry": {
+  "blue_skies:recipes/building_blocks/nature_stone_pillar_stonecutting_nature_stone": {
     "criteria": {
-      "have_pink_brewberry": "2025-05-25 22:25:48 +0000"
+      "has_item": "2025-05-25 22:27:30 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/nature_stone_stairs": {
+    "criteria": {
+      "has_item": "2025-05-25 22:27:30 +0000"
     },
     "done": true
   },
@@ -3481,39 +3487,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
-    "criteria": {
-      "has_amethyst_shard": "2025-05-25 22:26:45 +0000"
-    },
-    "done": true
-  },
   "blue_skies:recipes/building_blocks/nature_stonebrick": {
     "criteria": {
       "has_item": "2025-05-25 22:27:30 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/iron": {
-    "criteria": {
-      "has_iron_ingot": "2025-05-25 22:55:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/tinted_glass": {
-    "criteria": {
-      "has_amethyst_shard": "2025-05-25 22:26:45 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/iron_tier_upgrade": {
-    "criteria": {
-      "has_iron_ingot": "2025-05-25 22:55:54 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/hose_nozzle": {
-    "criteria": {
-      "has_iron": "2025-05-25 22:55:54 +0000"
     },
     "done": true
   },
@@ -3535,15 +3511,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/amethyst_block": {
-    "criteria": {
-      "has_amethyst_shard": "2025-05-25 22:26:45 +0000"
-    },
-    "done": true
-  },
   "blue_skies:recipes/building_blocks/nature_stonebrick_wall_stonecutting_nature_stone": {
     "criteria": {
       "has_item": "2025-05-25 22:27:30 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/nature_stone_slab": {
+    "criteria": {
+      "has_item": "2025-05-25 22:27:30 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/backpack_tank": {
+    "criteria": {
+      "has_iron": "2025-05-25 22:55:54 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/iron": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-25 22:55:54 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/iron_tier_upgrade": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-25 22:55:54 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/hose_nozzle": {
+    "criteria": {
+      "has_iron": "2025-05-25 22:55:54 +0000"
     },
     "done": true
   },
@@ -3553,9 +3553,9 @@
     },
     "done": true
   },
-  "blue_skies:recipes/building_blocks/nature_stone_slab": {
+  "blue_skies:recipes/misc/pink_dye_from_blush_blossom": {
     "criteria": {
-      "has_item": "2025-05-25 22:27:30 +0000"
+      "has_item": "2025-05-25 23:08:27 +0000"
     },
     "done": true
   },
