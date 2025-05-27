@@ -5254,6 +5254,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/cow": {
+    "criteria": {
+      "has_milk_bucket": "2025-05-27 04:21:00 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/misc/ventium_nugget_from_ingot": {
     "criteria": {
       "has_item": "2025-05-27 02:39:02 +0000"

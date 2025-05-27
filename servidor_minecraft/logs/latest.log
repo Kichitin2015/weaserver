@@ -343,3 +343,4 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 [27May2025 04:06:17.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa has made the advancement [Artificial Friend]
 [27May2025 04:09:04.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid has made the advancement [Artificial Friend]
 [27May2025 04:10:20.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa has made the advancement [A Little Hot Rod Red]
+[27May2025 04:21:41.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to Ombid]
