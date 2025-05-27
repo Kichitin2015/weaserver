@@ -218,3 +218,5 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 [27May2025 01:34:41.833] [ForkJoinPool-4-worker-1/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://playerdb.co/api/player/minecraft/Ombid downloaded
 [27May2025 01:35:41.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid has made the advancement [A Terrible Fortress]
 [27May2025 01:39:21.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid has made the advancement [Into Fire]
+[27May2025 01:44:27.284] [Server thread/INFO] [Scaling Health/]: Blight Wither Skeleton was killed by Ombid
+[27May2025 02:00:53.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid has made the advancement [A Throwaway Joke]
