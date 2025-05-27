@@ -6267,3 +6267,28 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 [27May2025 06:41:19.648] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [27May2025 06:41:36.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> :,V
 [27May2025 06:42:56.248] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / twilightforest:twilight_forest] to ResourceKey[minecraft:dimension / blue_skies:everbright]
+[27May2025 06:45:54.207] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / blue_skies:everbright] to ResourceKey[minecraft:dimension / twilightforest:twilight_forest]
+[27May2025 06:45:54.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported krinpa to Ombid]
+[27May2025 06:46:19.633] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27May2025 06:46:19.640] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27May2025 06:46:25.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa has reached the goal [Trophied Champion]
+[27May2025 06:46:25.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid has reached the goal [Trophied Champion]
+[27May2025 06:46:40.965] [Server thread/INFO] [Scaling Health/]: Blight Kobold was killed by krinpa
+[27May2025 06:47:48.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported krinpa to Ombid]
+[27May2025 06:50:38.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Spectator Mode]
+[27May2025 06:50:54.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Survival Mode]
+[27May2025 06:51:09.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Spectator Mode]
+[27May2025 06:51:17.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Survival Mode]
+[27May2025 06:51:19.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Spectator Mode]
+[27May2025 06:51:19.643] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27May2025 06:51:19.651] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27May2025 06:51:22.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Survival Mode]
+[27May2025 06:51:30.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported krinpa to Ombid]
+[27May2025 06:51:35.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Spectator Mode]
+[27May2025 06:51:52.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Survival Mode]
+[27May2025 06:52:05.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to Ombid]
+[27May2025 06:53:17.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa has reached the goal [Strong Undead]
+[27May2025 06:53:24.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa has made the advancement [Your First Receptacle]
+[27May2025 06:55:12.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid has reached the goal [Carminite Acclimation]
+[27May2025 06:55:12.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa has reached the goal [Carminite Acclimation]
+[27May2025 06:55:12.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid has made the advancement [Your First Receptacle]
