@@ -6055,5 +6055,17 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/snow": {
+    "criteria": {
+      "has_snowball": "2025-05-27 06:23:33 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/aurora_slab_slab": {
+    "criteria": {
+      "has_item": "2025-05-27 06:26:16 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
