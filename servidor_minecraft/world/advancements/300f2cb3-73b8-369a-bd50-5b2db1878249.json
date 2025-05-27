@@ -2509,9 +2509,10 @@
   },
   "blue_skies:thinking_with_portals": {
     "criteria": {
-      "enter_everbright": "2025-05-16 05:50:59 +0000"
+      "enter_everbright": "2025-05-16 05:50:59 +0000",
+      "enter_everdawn": "2025-05-27 04:31:55 +0000"
     },
-    "done": false
+    "done": true
   },
   "blue_skies:recipes/building_blocks/bluebright_planks": {
     "criteria": {
@@ -5081,6 +5082,12 @@
     },
     "done": true
   },
+  "blue_skies:everdawn/kill_alchemist": {
+    "criteria": {
+      "kill_alchemist": "2025-05-27 04:39:47 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/blast_furnace_upgrade": {
     "criteria": {
       "has_blank_upgrade": "2025-05-27 02:35:50 +0000"
@@ -5153,6 +5160,18 @@
     },
     "done": true
   },
+  "blue_skies:recipes/misc/scalefruit_seeds": {
+    "criteria": {
+      "has_item": "2025-05-27 04:36:50 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:progression/unlock_everdawn_blinding_key_trade": {
+    "criteria": {
+      "click_keystone": "2025-05-27 04:37:26 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/misc/horizonite_nugget_from_blasting_horizonite_chestplate": {
     "criteria": {
       "has_item": "2025-05-27 02:53:28 +0000"
@@ -5192,6 +5211,12 @@
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2025-05-27 02:34:03 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:everdawn/enter": {
+    "criteria": {
+      "enter_everdawn": "2025-05-27 04:31:55 +0000"
     },
     "done": true
   },
@@ -5296,6 +5321,12 @@
       "has_magma_cube": "2025-05-27 02:34:30 +0000"
     },
     "done": true
+  },
+  "blue_skies:everdawn/kill_bug": {
+    "criteria": {
+      "kill_emberback": "2025-05-27 04:32:42 +0000"
+    },
+    "done": false
   },
   "travelersbackpack:recipes/misc/cow": {
     "criteria": {

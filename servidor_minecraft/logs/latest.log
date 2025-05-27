@@ -350,3 +350,7 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 [27May2025 04:31:53.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa has made the advancement [Now You're Thinking with Portals!]
 [27May2025 04:31:55.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid has made the advancement [Forever Dawn?]
 [27May2025 04:31:55.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid has made the advancement [Now You're Thinking with Portals!]
+[27May2025 04:37:29.262] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Spawned a(n) Alchemist scaled to 1 player(s). The difficulty ID is GOLD. The position is BlockPos{x=129, y=121, z=945}
+[27May2025 04:39:47.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid has completed the challenge [Potent Opponent!]
+[27May2025 04:39:47.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa has completed the challenge [Potent Opponent!]
+[27May2025 04:41:43.766] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Spawned a(n) Alchemist scaled to 1 player(s). The difficulty ID is PLATINUM. The position is BlockPos{x=129, y=121, z=945}

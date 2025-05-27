@@ -5299,3 +5299,13 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 [27May2025 04:31:55.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid has made the advancement [Now You're Thinking with Portals!]
 [27May2025 04:31:55.075] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / blue_skies:everdawn]
 [27May2025 04:31:55.075] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / blue_skies:everdawn]
+[27May2025 04:36:16.087] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27May2025 04:36:16.094] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27May2025 04:36:18.217] [Server thread/DEBUG] [mixin/]: Mixing alloc.enum_values.piston_handler.PistonHandlerMixin from lithium.mixins.json into net.minecraft.world.level.block.piston.PistonStructureResolver
+[27May2025 04:36:18.217] [Server thread/DEBUG] [mixin/]: lithium.mixins.json:alloc.enum_values.piston_handler.PistonHandlerMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[27May2025 04:37:29.262] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Spawned a(n) Alchemist scaled to 1 player(s). The difficulty ID is GOLD. The position is BlockPos{x=129, y=121, z=945}
+[27May2025 04:39:47.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid has completed the challenge [Potent Opponent!]
+[27May2025 04:39:47.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa has completed the challenge [Potent Opponent!]
+[27May2025 04:41:16.085] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27May2025 04:41:16.093] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27May2025 04:41:43.766] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Spawned a(n) Alchemist scaled to 1 player(s). The difficulty ID is PLATINUM. The position is BlockPos{x=129, y=121, z=945}

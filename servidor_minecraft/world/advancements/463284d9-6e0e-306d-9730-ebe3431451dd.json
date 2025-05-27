@@ -1834,9 +1834,10 @@
   },
   "blue_skies:thinking_with_portals": {
     "criteria": {
-      "enter_everbright": "2025-05-16 05:50:50 +0000"
+      "enter_everbright": "2025-05-16 05:50:50 +0000",
+      "enter_everdawn": "2025-05-27 04:31:53 +0000"
     },
-    "done": false
+    "done": true
   },
   "blue_skies:recipes/misc/lime_dye_from_polar_posy": {
     "criteria": {
@@ -3566,9 +3567,21 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/moonstone_block_from_moonstone": {
+    "criteria": {
+      "has_item": "2025-05-27 04:40:33 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/star_emitter": {
     "criteria": {
       "has_item": "2025-05-27 04:03:06 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:everdawn/kill_alchemist": {
+    "criteria": {
+      "kill_alchemist": "2025-05-27 04:39:47 +0000"
     },
     "done": true
   },
@@ -3650,9 +3663,21 @@
     },
     "done": true
   },
+  "blue_skies:progression/unlock_everdawn_blinding_key_trade": {
+    "criteria": {
+      "click_keystone": "2025-05-27 04:37:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_slime_ball": "2025-05-27 03:38:10 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/thwarted_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-05-27 04:40:03 +0000"
     },
     "done": true
   },
@@ -3662,9 +3687,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_carpet": {
+    "criteria": {
+      "has_red_wool": "2025-05-27 04:31:40 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:everdawn/enter": {
+    "criteria": {
+      "enter_everdawn": "2025-05-27 04:31:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2025-05-27 04:14:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2025-05-27 04:31:40 +0000"
     },
     "done": true
   },
@@ -3734,6 +3777,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/decorations/red_sleeping_bag": {
+    "criteria": {
+      "has_red_wool": "2025-05-27 04:31:40 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/ventium_block": {
     "criteria": {
       "has_item": "2025-05-27 04:10:20 +0000"
@@ -3755,6 +3804,12 @@
   "blue_skies:recipes/misc/falsite_nugget_from_ingot": {
     "criteria": {
       "has_item": "2025-05-27 04:03:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_bed": {
+    "criteria": {
+      "has_red_wool": "2025-05-27 04:31:40 +0000"
     },
     "done": true
   },
