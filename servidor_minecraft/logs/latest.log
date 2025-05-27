@@ -411,3 +411,43 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 [27May2025 05:41:19.843] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity minecraft:mob_spawner @ BlockPos{x=-7674, y=5, z=7995} state Block{minecraft:chest}[facing=south,type=single,waterlogged=false] invalid for ticking:
 [27May2025 05:42:39.269] [Server thread/INFO] [Scaling Health/]: Blight Swarm Spider has died
 [27May2025 05:43:52.390] [Server thread/INFO] [Scaling Health/]: Blight Tiny Bird was killed by Ombid
+[27May2025 05:44:57.735] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity minecraft:mob_spawner @ BlockPos{x=-8397, y=5, z=9454} state Block{minecraft:chest}[facing=south,type=single,waterlogged=false] invalid for ticking:
+[27May2025 05:45:38.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Kicked krinpa: Kicked by an operator]
+[27May2025 05:45:38.271] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: krinpa lost connection: Kicked by an operator
+[27May2025 05:45:38.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa left the game
+[27May2025 05:45:38.272] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player krinpa[463284d9-6e0e-306d-9730-ebe3431451dd]
+[27May2025 05:45:40.375] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[27May2025 05:45:40.420] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[27May2025 05:45:40.469] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[27May2025 05:45:40.518] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[27May2025 05:45:40.568] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[27May2025 05:45:40.620] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[27May2025 05:45:40.667] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[27May2025 05:45:40.719] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[27May2025 05:45:40.768] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[27May2025 05:45:40.817] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[27May2025 05:45:40.867] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[27May2025 05:45:40.923] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[27May2025 05:45:41.111] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[27May2025 05:45:41.111] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[27May2025 05:45:41.111] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[27May2025 05:45:41.133] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[27May2025 05:45:44.387] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: krinpa[/100.104.79.38:51561] logged in with entity id 119012 at (-7731.037733959293, 8.981243578885044, 7244.253596261517)
+[27May2025 05:45:44.388] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to krinpa
+[27May2025 05:45:44.388] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to krinpa
+[27May2025 05:45:44.389] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to krinpa
+[27May2025 05:45:44.389] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to krinpa
+[27May2025 05:45:44.392] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to krinpa
+[27May2025 05:45:44.394] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to krinpa
+[27May2025 05:45:44.395] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to krinpa
+[27May2025 05:45:44.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa joined the game
+[27May2025 05:45:44.429] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player krinpa just logged in with id 463284d9-6e0e-306d-9730-ebe3431451dd
+[27May2025 05:45:44.439] [ForkJoinPool-4-worker-4/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player krinpa[463284d9-6e0e-306d-9730-ebe3431451dd]
+[27May2025 05:45:44.677] [ForkJoinPool-4-worker-4/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/krinpa
+[27May2025 05:46:46.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to krinpa]
+[27May2025 05:47:39.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid has reached the goal [Time To Even The Scales]
+[27May2025 05:47:39.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa has reached the goal [Time To Even The Scales]
+[27May2025 05:51:43.240] [Server thread/INFO] [Scaling Health/]: Blight Raven was killed by Ombid
+[27May2025 05:51:49.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid has made the advancement [With Fire It Writes]
+[27May2025 05:53:31.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to krinpa]
+[27May2025 05:53:59.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> secmod

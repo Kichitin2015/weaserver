@@ -3562,267 +3562,9 @@
     },
     "done": true
   },
-  "blue_skies:recipes/combat/horizonite_chestplate": {
-    "criteria": {
-      "has_item": "2025-05-27 04:49:35 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/tools/ventium_shears": {
-    "criteria": {
-      "has_item": "2025-05-27 04:10:20 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/moonstone_block_from_moonstone": {
-    "criteria": {
-      "has_item": "2025-05-27 04:40:33 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:twilight_hunter": {
-    "criteria": {
-      "hedge_spider": "2025-05-27 05:32:50 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/misc/horizonite_nugget_from_ingot": {
-    "criteria": {
-      "has_item": "2025-05-27 04:49:35 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/combat/charoite_helmet": {
-    "criteria": {
-      "has_item": "2025-05-27 05:06:55 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/poison_stone_stairs_stonecutting_poison_stone": {
-    "criteria": {
-      "has_item": "2025-05-27 04:58:44 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/star_emitter": {
-    "criteria": {
-      "has_item": "2025-05-27 04:03:06 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:everdawn/kill_alchemist": {
-    "criteria": {
-      "kill_alchemist": "2025-05-27 04:39:47 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/glowing_poison_stone_stairs": {
-    "criteria": {
-      "has_item": "2025-05-27 05:06:55 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/chicken_smithing": {
-    "criteria": {
-      "has_chicken": "2025-05-27 04:22:00 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/rough_poison_stonebrick_stairs_stonecutting_poison_stone": {
-    "criteria": {
-      "has_item": "2025-05-27 04:58:44 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/misc/magic_map_focus": {
-    "criteria": {
-      "has_berries": "2025-05-27 05:35:27 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/glowing_poison_stone_slab": {
-    "criteria": {
-      "has_item": "2025-05-27 05:06:55 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/blue_skies_tools/horizonite_shovel": {
-    "criteria": {
-      "has_resource": "2025-05-27 04:49:35 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/misc/regrowth_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2025-05-27 03:54:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2025-05-27 04:14:52 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/glowing_poison_stone_stairs_stonecutting_glowing_poison_stone": {
-    "criteria": {
-      "has_item": "2025-05-27 05:06:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/coal": {
-    "criteria": {
-      "has_coal_block": "2025-05-27 04:13:50 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:everdawn/kill_arachnarch": {
-    "criteria": {
-      "kill_arachnarch": "2025-05-27 05:05:49 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/blue_skies_tools/charoite_shovel": {
-    "criteria": {
-      "has_resource": "2025-05-27 05:06:55 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:everbright/summon_artificial_golem": {
-    "criteria": {
-      "summon_golem": "2025-05-27 04:06:17 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:everbright/get_falsite": {
-    "criteria": {
-      "obtain_material": "2025-05-27 04:03:06 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/poison_stonebrick_stonecutting_poison_stone": {
-    "criteria": {
-      "has_item": "2025-05-27 04:58:44 +0000"
-    },
-    "done": true
-  },
   "blue_skies:progression/unlock_nature_key_trade": {
     "criteria": {
       "click_keystone": "2025-05-27 03:33:36 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/misc/winter_leaf_seeds": {
-    "criteria": {
-      "has_item": "2025-05-27 03:54:00 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/misc/horizonite_block": {
-    "criteria": {
-      "has_item": "2025-05-27 04:49:35 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/blue_skies_tools/charoite_hoe": {
-    "criteria": {
-      "has_resource": "2025-05-27 05:06:55 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:everbright/get_ventium": {
-    "criteria": {
-      "obtain_material": "2025-05-27 04:10:20 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/enchanting_table_compat": {
-    "criteria": {
-      "has_item": "2025-05-27 05:06:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2025-05-27 04:14:52 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/blue_skies_tools/horizonite_sword": {
-    "criteria": {
-      "has_resource": "2025-05-27 04:49:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/totem_of_undying": {
-    "criteria": {
-      "used_totem": "2025-05-27 05:07:29 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/spider": {
-    "criteria": {
-      "has_string": "2025-05-27 04:49:55 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/misc/charoite_block": {
-    "criteria": {
-      "has_item": "2025-05-27 05:06:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/soul_torch": {
-    "criteria": {
-      "has_soul_sand": "2025-05-27 03:54:34 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/blue_skies_tools/horizonite_pickaxe": {
-    "criteria": {
-      "has_resource": "2025-05-27 04:49:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2025-05-27 04:14:52 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/poison_stonebrick_wall_stonecutting_poison_stone": {
-    "criteria": {
-      "has_item": "2025-05-27 04:58:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/granite_slab": {
-    "criteria": {
-      "has_granite": "2025-05-27 04:14:52 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:progression/unlock_everdawn_blinding_key_trade": {
-    "criteria": {
-      "click_keystone": "2025-05-27 04:37:29 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/standard_no_tanks": {
-    "criteria": {
-      "has_chest": "2025-05-27 04:58:33 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/combat/charoite_chestplate": {
-    "criteria": {
-      "has_item": "2025-05-27 05:06:55 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/poison_stone_slab_stonecutting_poison_stone": {
-    "criteria": {
-      "has_item": "2025-05-27 04:58:44 +0000"
     },
     "done": true
   },
@@ -3832,21 +3574,93 @@
     },
     "done": true
   },
-  "blue_skies:recipes/misc/thwarted_armor_trim_smithing_template_smithing_trim": {
+  "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
-      "has_smithing_trim_template": "2025-05-27 04:40:03 +0000"
+      "has_slime_ball": "2025-05-27 03:38:10 +0000"
     },
     "done": true
   },
-  "blue_skies:recipes/blue_skies_tools/horizonite_hoe": {
+  "minecraft:recipes/redstone/slime_block": {
     "criteria": {
-      "has_resource": "2025-05-27 04:49:35 +0000"
+      "has_slime_ball": "2025-05-27 03:38:10 +0000"
     },
     "done": true
   },
-  "blue_skies:recipes/building_blocks/poison_stone_slab": {
+  "travelersbackpack:recipes/misc/enderman": {
     "criteria": {
-      "has_item": "2025-05-27 04:58:44 +0000"
+      "has_ender_pearl": "2025-05-27 03:48:49 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:everbright/kill_starlit_crusher": {
+    "criteria": {
+      "kill_starlit_crusher": "2025-05-27 03:53:41 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/regrowth_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-05-27 03:54:00 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/winter_leaf_seeds": {
+    "criteria": {
+      "has_item": "2025-05-27 03:54:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-05-27 03:54:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-05-27 03:54:34 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/star_emitter": {
+    "criteria": {
+      "has_item": "2025-05-27 04:03:06 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:everbright/get_falsite": {
+    "criteria": {
+      "obtain_material": "2025-05-27 04:03:06 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/falsite_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-05-27 04:03:06 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/falsite_block": {
+    "criteria": {
+      "has_item": "2025-05-27 04:03:06 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:everbright/summon_artificial_golem": {
+    "criteria": {
+      "summon_golem": "2025-05-27 04:06:17 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/tools/ventium_shears": {
+    "criteria": {
+      "has_item": "2025-05-27 04:10:20 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:everbright/get_ventium": {
+    "criteria": {
+      "obtain_material": "2025-05-27 04:10:20 +0000"
     },
     "done": true
   },
@@ -3856,9 +3670,291 @@
     },
     "done": true
   },
+  "blue_skies:recipes/tools/ventium_bucket": {
+    "criteria": {
+      "has_item": "2025-05-27 04:10:20 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/tool_box": {
+    "criteria": {
+      "has_item": "2025-05-27 04:10:20 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/ventium_block": {
+    "criteria": {
+      "has_item": "2025-05-27 04:10:20 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/ventium_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-05-27 04:10:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-05-27 04:13:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-05-27 04:14:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-05-27 04:14:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-05-27 04:14:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2025-05-27 04:14:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2025-05-27 04:14:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-05-27 04:14:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2025-05-27 04:14:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-05-27 04:14:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_granite": "2025-05-27 04:14:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-05-27 04:14:52 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/chicken_smithing": {
+    "criteria": {
+      "has_chicken": "2025-05-27 04:22:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_carpet": {
+    "criteria": {
+      "has_red_wool": "2025-05-27 04:31:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2025-05-27 04:31:40 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/red_sleeping_bag": {
+    "criteria": {
+      "has_red_wool": "2025-05-27 04:31:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_bed": {
+    "criteria": {
+      "has_red_wool": "2025-05-27 04:31:40 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:everdawn/enter": {
+    "criteria": {
+      "enter_everdawn": "2025-05-27 04:31:53 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:progression/unlock_everdawn_blinding_key_trade": {
+    "criteria": {
+      "click_keystone": "2025-05-27 04:37:29 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:everdawn/kill_alchemist": {
+    "criteria": {
+      "kill_alchemist": "2025-05-27 04:39:47 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/thwarted_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-05-27 04:40:03 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/moonstone_block_from_moonstone": {
+    "criteria": {
+      "has_item": "2025-05-27 04:40:33 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:everdawn/enter_poison_dungeon": {
+    "criteria": {
+      "entered_dungeon": "2025-05-27 04:49:04 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/horizonite_chestplate": {
+    "criteria": {
+      "has_item": "2025-05-27 04:49:35 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/horizonite_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-05-27 04:49:35 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/horizonite_shovel": {
+    "criteria": {
+      "has_resource": "2025-05-27 04:49:35 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/horizonite_block": {
+    "criteria": {
+      "has_item": "2025-05-27 04:49:35 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/horizonite_sword": {
+    "criteria": {
+      "has_resource": "2025-05-27 04:49:35 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/horizonite_pickaxe": {
+    "criteria": {
+      "has_resource": "2025-05-27 04:49:35 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/horizonite_hoe": {
+    "criteria": {
+      "has_resource": "2025-05-27 04:49:35 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/horizonite_forge": {
+    "criteria": {
+      "has_item": "2025-05-27 04:49:35 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/horizonite_helmet": {
+    "criteria": {
+      "has_item": "2025-05-27 04:49:35 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:everdawn/get_horizonite": {
+    "criteria": {
+      "obtain_material": "2025-05-27 04:49:35 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/horizonite_axe": {
+    "criteria": {
+      "has_resource": "2025-05-27 04:49:35 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/horizonite_boots": {
+    "criteria": {
+      "has_item": "2025-05-27 04:49:35 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/horizonite_leggings": {
+    "criteria": {
+      "has_item": "2025-05-27 04:49:35 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/spider": {
+    "criteria": {
+      "has_string": "2025-05-27 04:49:55 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/standard_no_tanks": {
+    "criteria": {
+      "has_chest": "2025-05-27 04:58:33 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/standard": {
     "criteria": {
       "has_chest": "2025-05-27 04:58:33 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/poison_stone_stairs_stonecutting_poison_stone": {
+    "criteria": {
+      "has_item": "2025-05-27 04:58:44 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/rough_poison_stonebrick_stairs_stonecutting_poison_stone": {
+    "criteria": {
+      "has_item": "2025-05-27 04:58:44 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/poison_stonebrick_stonecutting_poison_stone": {
+    "criteria": {
+      "has_item": "2025-05-27 04:58:44 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/poison_stonebrick_wall_stonecutting_poison_stone": {
+    "criteria": {
+      "has_item": "2025-05-27 04:58:44 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/poison_stone_slab_stonecutting_poison_stone": {
+    "criteria": {
+      "has_item": "2025-05-27 04:58:44 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/poison_stone_slab": {
+    "criteria": {
+      "has_item": "2025-05-27 04:58:44 +0000"
     },
     "done": true
   },
@@ -3874,99 +3970,9 @@
     },
     "done": true
   },
-  "blue_skies:recipes/building_blocks/glowing_poison_stone_slab_stonecutting_glowing_poison_stone": {
-    "criteria": {
-      "has_item": "2025-05-27 05:06:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_carpet": {
-    "criteria": {
-      "has_red_wool": "2025-05-27 04:31:40 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:everdawn/enter": {
-    "criteria": {
-      "enter_everdawn": "2025-05-27 04:31:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/granite_stairs": {
-    "criteria": {
-      "has_granite": "2025-05-27 04:14:52 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:progression/unlock_poison_key_trade": {
-    "criteria": {
-      "click_keystone": "2025-05-27 05:01:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_banner": {
-    "criteria": {
-      "has_red_wool": "2025-05-27 04:31:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2025-05-27 04:14:52 +0000"
-    },
-    "done": true
-  },
   "blue_skies:recipes/building_blocks/poison_stonebrick_slab_stonecutting_poison_stone": {
     "criteria": {
       "has_item": "2025-05-27 04:58:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/sticky_piston": {
-    "criteria": {
-      "has_slime_ball": "2025-05-27 03:38:10 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/combat/charoite_boots": {
-    "criteria": {
-      "has_item": "2025-05-27 05:06:55 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/horizonite_forge": {
-    "criteria": {
-      "has_item": "2025-05-27 04:49:35 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/decorations/berry_torch": {
-    "criteria": {
-      "has_item": "2025-05-27 05:35:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/granite_wall": {
-    "criteria": {
-      "has_granite": "2025-05-27 04:14:52 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/tools/ventium_bucket": {
-    "criteria": {
-      "has_item": "2025-05-27 04:10:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2025-05-27 04:14:52 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/enderman": {
-    "criteria": {
-      "has_ender_pearl": "2025-05-27 03:48:49 +0000"
     },
     "done": true
   },
@@ -3976,39 +3982,9 @@
     },
     "done": true
   },
-  "blue_skies:recipes/combat/horizonite_helmet": {
-    "criteria": {
-      "has_item": "2025-05-27 04:49:35 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/combat/charoite_leggings": {
-    "criteria": {
-      "has_item": "2025-05-27 05:06:55 +0000"
-    },
-    "done": true
-  },
   "blue_skies:recipes/building_blocks/poison_stonebrick_stairs_stonecutting_poison_stone": {
     "criteria": {
       "has_item": "2025-05-27 04:58:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_granite": {
-    "criteria": {
-      "has_granite": "2025-05-27 04:14:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/soul_campfire": {
-    "criteria": {
-      "has_soul_sand": "2025-05-27 03:54:34 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:everbright/kill_starlit_crusher": {
-    "criteria": {
-      "kill_starlit_crusher": "2025-05-27 03:53:41 +0000"
     },
     "done": true
   },
@@ -4018,105 +3994,15 @@
     },
     "done": true
   },
-  "blue_skies:recipes/blue_skies_tools/charoite_sword": {
-    "criteria": {
-      "has_resource": "2025-05-27 05:06:55 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:everdawn/get_horizonite": {
-    "criteria": {
-      "obtain_material": "2025-05-27 04:49:35 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:everdawn/enter_poison_dungeon": {
-    "criteria": {
-      "entered_dungeon": "2025-05-27 04:49:04 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/jukebox_compat": {
-    "criteria": {
-      "has_item": "2025-05-27 05:06:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/slime_block": {
-    "criteria": {
-      "has_slime_ball": "2025-05-27 03:38:10 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/tool_box": {
-    "criteria": {
-      "has_item": "2025-05-27 04:10:20 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/blue_skies_tools/charoite_axe": {
-    "criteria": {
-      "has_resource": "2025-05-27 05:06:55 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/blue_skies_tools/horizonite_axe": {
-    "criteria": {
-      "has_resource": "2025-05-27 04:49:35 +0000"
-    },
-    "done": true
-  },
   "blue_skies:recipes/building_blocks/poison_stone_stairs": {
     "criteria": {
       "has_item": "2025-05-27 04:58:44 +0000"
     },
     "done": true
   },
-  "blue_skies:recipes/blue_skies_tools/charoite_pickaxe": {
-    "criteria": {
-      "has_resource": "2025-05-27 05:06:55 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/decorations/red_sleeping_bag": {
-    "criteria": {
-      "has_red_wool": "2025-05-27 04:31:40 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/ventium_block": {
-    "criteria": {
-      "has_item": "2025-05-27 04:10:20 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:get_charoite": {
-    "criteria": {
-      "obtain_material": "2025-05-27 05:06:55 +0000"
-    },
-    "done": true
-  },
   "blue_skies:recipes/building_blocks/poison_stonebrick": {
     "criteria": {
       "has_item": "2025-05-27 04:58:44 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/decorations/firefly_jar": {
-    "criteria": {
-      "has_item": "2025-05-27 05:32:16 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/combat/horizonite_boots": {
-    "criteria": {
-      "has_item": "2025-05-27 04:49:35 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:root": {
-    "criteria": {
-      "in_tf": "2025-05-27 05:31:46 +0000"
     },
     "done": true
   },
@@ -4128,21 +4014,123 @@
     },
     "done": false
   },
-  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+  "blue_skies:progression/unlock_poison_key_trade": {
     "criteria": {
-      "has_granite": "2025-05-27 04:14:52 +0000"
+      "click_keystone": "2025-05-27 05:01:33 +0000"
     },
     "done": true
   },
-  "blue_skies:recipes/combat/horizonite_leggings": {
+  "blue_skies:everdawn/kill_arachnarch": {
     "criteria": {
-      "has_item": "2025-05-27 04:49:35 +0000"
+      "kill_arachnarch": "2025-05-27 05:05:49 +0000"
     },
     "done": true
   },
-  "blue_skies:recipes/misc/toxic_armor_trim_smithing_template_smithing_trim": {
+  "blue_skies:recipes/combat/charoite_helmet": {
     "criteria": {
-      "has_smithing_trim_template": "2025-05-27 05:14:16 +0000"
+      "has_item": "2025-05-27 05:06:55 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/glowing_poison_stone_stairs": {
+    "criteria": {
+      "has_item": "2025-05-27 05:06:55 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/glowing_poison_stone_slab": {
+    "criteria": {
+      "has_item": "2025-05-27 05:06:55 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/glowing_poison_stone_stairs_stonecutting_glowing_poison_stone": {
+    "criteria": {
+      "has_item": "2025-05-27 05:06:55 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/charoite_shovel": {
+    "criteria": {
+      "has_resource": "2025-05-27 05:06:55 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/charoite_hoe": {
+    "criteria": {
+      "has_resource": "2025-05-27 05:06:55 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/enchanting_table_compat": {
+    "criteria": {
+      "has_item": "2025-05-27 05:06:55 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/charoite_block": {
+    "criteria": {
+      "has_item": "2025-05-27 05:06:55 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/charoite_chestplate": {
+    "criteria": {
+      "has_item": "2025-05-27 05:06:55 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/glowing_poison_stone_slab_stonecutting_glowing_poison_stone": {
+    "criteria": {
+      "has_item": "2025-05-27 05:06:55 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/charoite_boots": {
+    "criteria": {
+      "has_item": "2025-05-27 05:06:55 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/charoite_leggings": {
+    "criteria": {
+      "has_item": "2025-05-27 05:06:55 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/charoite_sword": {
+    "criteria": {
+      "has_resource": "2025-05-27 05:06:55 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/jukebox_compat": {
+    "criteria": {
+      "has_item": "2025-05-27 05:06:55 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/charoite_axe": {
+    "criteria": {
+      "has_resource": "2025-05-27 05:06:55 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/charoite_pickaxe": {
+    "criteria": {
+      "has_resource": "2025-05-27 05:06:55 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:get_charoite": {
+    "criteria": {
+      "obtain_material": "2025-05-27 05:06:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2025-05-27 05:07:29 +0000"
     },
     "done": true
   },
@@ -4152,27 +4140,27 @@
     },
     "done": true
   },
-  "blue_skies:recipes/misc/ventium_nugget_from_ingot": {
+  "blue_skies:recipes/misc/toxic_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
-      "has_item": "2025-05-27 04:10:20 +0000"
+      "has_smithing_trim_template": "2025-05-27 05:14:16 +0000"
     },
     "done": true
   },
-  "blue_skies:recipes/misc/falsite_nugget_from_ingot": {
+  "twilightforest:root": {
     "criteria": {
-      "has_item": "2025-05-27 04:03:06 +0000"
+      "in_tf": "2025-05-27 05:31:46 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/red_bed": {
+  "twilightforest:recipes/decorations/firefly_jar": {
     "criteria": {
-      "has_red_wool": "2025-05-27 04:31:40 +0000"
+      "has_item": "2025-05-27 05:32:16 +0000"
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/hay": {
+  "twilightforest:twilight_hunter": {
     "criteria": {
-      "has_wheat": "2025-05-27 05:36:09 +0000"
+      "hedge_spider": "2025-05-27 05:32:50 +0000"
     },
     "done": true
   },
@@ -4182,9 +4170,75 @@
     },
     "done": true
   },
-  "blue_skies:recipes/building_blocks/falsite_block": {
+  "twilightforest:recipes/misc/magic_map_focus": {
     "criteria": {
-      "has_item": "2025-05-27 04:03:06 +0000"
+      "has_berries": "2025-05-27 05:35:27 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/berry_torch": {
+    "criteria": {
+      "has_item": "2025-05-27 05:35:27 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/hay": {
+    "criteria": {
+      "has_wheat": "2025-05-27 05:36:09 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/cicada_jar": {
+    "criteria": {
+      "has_item": "2025-05-27 05:44:19 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/nagastone/smelted_cracked_etched_nagastone": {
+    "criteria": {
+      "has_item": "2025-05-27 05:48:17 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/nagastone/nagastone_stairs_left": {
+    "criteria": {
+      "has_item": "2025-05-27 05:48:17 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:arborist": {
+    "criteria": {
+      "twilight_oak_sapling": "2025-05-27 05:48:52 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:recipes/building_blocks/nagastone/nagastone_stairs_right": {
+    "criteria": {
+      "has_item": "2025-05-27 05:48:17 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/nagastone/mossy_etched_nagastone": {
+    "criteria": {
+      "has_item": "2025-05-27 05:48:17 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_lich": {
+    "criteria": {
+      "kill_naga": "2025-05-27 05:47:39 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:progress_naga": {
+    "criteria": {
+      "was_in_fight": "2025-05-27 05:47:39 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/naga_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-05-27 05:48:09 +0000"
     },
     "done": true
   },

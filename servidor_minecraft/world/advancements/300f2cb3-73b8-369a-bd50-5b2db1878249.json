@@ -5106,6 +5106,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/building_blocks/nagastone/smelted_cracked_etched_nagastone": {
+    "criteria": {
+      "has_item": "2025-05-27 05:46:53 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/misc/horizonite_nugget_from_ingot": {
     "criteria": {
       "has_item": "2025-05-27 05:06:05 +0000"
@@ -5121,6 +5127,12 @@
   "blue_skies:recipes/building_blocks/poison_stone_stairs_stonecutting_poison_stone": {
     "criteria": {
       "has_item": "2025-05-27 04:57:19 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/nagastone/nagastone_stairs_left": {
+    "criteria": {
+      "has_item": "2025-05-27 05:46:53 +0000"
     },
     "done": true
   },
@@ -5169,13 +5181,26 @@
   "twilightforest:arborist": {
     "criteria": {
       "twilight_oak_planks": "2025-05-27 05:38:56 +0000",
-      "twilight_oak_log": "2025-05-27 05:38:18 +0000"
+      "twilight_oak_log": "2025-05-27 05:38:18 +0000",
+      "twilight_oak_sapling": "2025-05-27 05:46:59 +0000"
     },
     "done": false
   },
   "blue_skies:recipes/building_blocks/glowing_poison_stone_stairs": {
     "criteria": {
       "has_item": "2025-05-27 04:49:35 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/uncrafting_table": {
+    "criteria": {
+      "has_uncrafting_table": "2025-05-27 05:42:04 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/nagastone/nagastone_stairs_right": {
+    "criteria": {
+      "has_item": "2025-05-27 05:46:53 +0000"
     },
     "done": true
   },
@@ -5188,6 +5213,12 @@
   "blue_skies:recipes/building_blocks/rough_poison_stonebrick_stairs_stonecutting_poison_stone": {
     "criteria": {
       "has_item": "2025-05-27 04:57:19 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/magic_map_focus": {
+    "criteria": {
+      "has_berries": "2025-05-27 05:43:35 +0000"
     },
     "done": true
   },
@@ -5248,6 +5279,12 @@
   "blue_skies:recipes/building_blocks/poison_stonebrick_stonecutting_poison_stone": {
     "criteria": {
       "has_item": "2025-05-27 04:57:19 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/nagastone/mossy_etched_nagastone": {
+    "criteria": {
+      "has_item": "2025-05-27 05:46:53 +0000"
     },
     "done": true
   },
@@ -5335,6 +5372,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/cicada_jar": {
+    "criteria": {
+      "has_item": "2025-05-27 05:48:28 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/misc/scalefruit_seeds": {
     "criteria": {
       "has_item": "2025-05-27 04:36:50 +0000"
@@ -5362,6 +5405,12 @@
   "twilightforest:recipes/redstone/wood/twilight_oak_button": {
     "criteria": {
       "has_item": "2025-05-27 05:38:56 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/chicken": {
+    "criteria": {
+      "has_feather": "2025-05-27 05:43:52 +0000"
     },
     "done": true
   },
@@ -5436,6 +5485,12 @@
       "has_item": "2025-05-27 05:38:56 +0000"
     },
     "done": true
+  },
+  "twilightforest:progress_lich": {
+    "criteria": {
+      "kill_naga": "2025-05-27 05:47:39 +0000"
+    },
+    "done": false
   },
   "blue_skies:recipes/building_blocks/poison_stone_slab": {
     "criteria": {
@@ -5527,6 +5582,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/berry_torch": {
+    "criteria": {
+      "has_item": "2025-05-27 05:43:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_cobblestone_wall": {
     "criteria": {
       "has_mossy_cobblestone": "2025-05-27 04:21:29 +0000"
@@ -5596,6 +5657,12 @@
   "travelersbackpack:recipes/misc/furnace_upgrade": {
     "criteria": {
       "has_blank_upgrade": "2025-05-27 02:35:50 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_naga": {
+    "criteria": {
+      "naga": "2025-05-27 05:47:39 +0000"
     },
     "done": true
   },
@@ -5725,6 +5792,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/firefly_jar": {
+    "criteria": {
+      "has_item": "2025-05-27 05:48:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2025-05-27 05:40:54 +0000"
@@ -5755,6 +5828,12 @@
   "twilightforest:recipes/redstone/wood/twilight_oak_plate": {
     "criteria": {
       "has_item": "2025-05-27 05:38:56 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/naga_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-05-27 05:47:53 +0000"
     },
     "done": true
   },
