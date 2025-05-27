@@ -5086,6 +5086,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/misc/regrowth_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-05-27 03:54:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
       "has_glow_ink_sac": "2025-05-27 02:59:13 +0000"
@@ -5095,6 +5101,12 @@
   "travelersbackpack:recipes/misc/crafting_upgrade": {
     "criteria": {
       "has_blank_upgrade": "2025-05-27 02:35:50 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/winter_leaf_seeds": {
+    "criteria": {
+      "has_item": "2025-05-27 03:54:07 +0000"
     },
     "done": true
   },
@@ -5185,6 +5197,12 @@
   "travelersbackpack:recipes/misc/furnace_upgrade": {
     "criteria": {
       "has_blank_upgrade": "2025-05-27 02:35:50 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:everbright/kill_starlit_crusher": {
+    "criteria": {
+      "kill_starlit_crusher": "2025-05-27 03:53:41 +0000"
     },
     "done": true
   },

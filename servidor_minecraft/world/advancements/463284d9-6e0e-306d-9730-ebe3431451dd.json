@@ -3559,9 +3559,27 @@
     },
     "done": true
   },
+  "blue_skies:recipes/misc/regrowth_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-05-27 03:54:00 +0000"
+    },
+    "done": true
+  },
   "blue_skies:progression/unlock_nature_key_trade": {
     "criteria": {
       "click_keystone": "2025-05-27 03:33:36 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/winter_leaf_seeds": {
+    "criteria": {
+      "has_item": "2025-05-27 03:54:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-05-27 03:54:34 +0000"
     },
     "done": true
   },
@@ -3580,6 +3598,18 @@
   "travelersbackpack:recipes/misc/enderman": {
     "criteria": {
       "has_ender_pearl": "2025-05-27 03:48:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-05-27 03:54:34 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:everbright/kill_starlit_crusher": {
+    "criteria": {
+      "kill_starlit_crusher": "2025-05-27 03:53:41 +0000"
     },
     "done": true
   },
