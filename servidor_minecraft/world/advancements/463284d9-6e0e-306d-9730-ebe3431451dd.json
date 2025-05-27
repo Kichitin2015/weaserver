@@ -3559,9 +3559,33 @@
     },
     "done": true
   },
+  "blue_skies:recipes/tools/ventium_shears": {
+    "criteria": {
+      "has_item": "2025-05-27 04:10:20 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/star_emitter": {
+    "criteria": {
+      "has_item": "2025-05-27 04:03:06 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/misc/regrowth_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2025-05-27 03:54:00 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:everbright/summon_artificial_golem": {
+    "criteria": {
+      "summon_golem": "2025-05-27 04:06:17 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:everbright/get_falsite": {
+    "criteria": {
+      "obtain_material": "2025-05-27 04:03:06 +0000"
     },
     "done": true
   },
@@ -3577,6 +3601,12 @@
     },
     "done": true
   },
+  "blue_skies:everbright/get_ventium": {
+    "criteria": {
+      "obtain_material": "2025-05-27 04:10:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
       "has_soul_sand": "2025-05-27 03:54:34 +0000"
@@ -3589,9 +3619,21 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/anvil_compat": {
+    "criteria": {
+      "has_item": "2025-05-27 04:10:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2025-05-27 03:38:10 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/tools/ventium_bucket": {
+    "criteria": {
+      "has_item": "2025-05-27 04:10:20 +0000"
     },
     "done": true
   },
@@ -3616,6 +3658,36 @@
   "minecraft:recipes/redstone/slime_block": {
     "criteria": {
       "has_slime_ball": "2025-05-27 03:38:10 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/tool_box": {
+    "criteria": {
+      "has_item": "2025-05-27 04:10:20 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/ventium_block": {
+    "criteria": {
+      "has_item": "2025-05-27 04:10:20 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/ventium_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-05-27 04:10:20 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/falsite_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-05-27 04:03:06 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/falsite_block": {
+    "criteria": {
+      "has_item": "2025-05-27 04:03:06 +0000"
     },
     "done": true
   },

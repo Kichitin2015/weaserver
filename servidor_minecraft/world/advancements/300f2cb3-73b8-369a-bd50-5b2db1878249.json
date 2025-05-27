@@ -5092,6 +5092,12 @@
     },
     "done": true
   },
+  "blue_skies:everbright/summon_artificial_golem": {
+    "criteria": {
+      "summon_golem": "2025-05-27 04:09:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
       "has_glow_ink_sac": "2025-05-27 02:59:13 +0000"

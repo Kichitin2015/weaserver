@@ -338,3 +338,8 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 [27May2025 03:58:16.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to Ombid]
 [27May2025 04:01:38.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to krinpa]
 [27May2025 04:01:40.473] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{krinpa})
+[27May2025 04:03:06.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa has made the advancement [Mysterious Metal]
+[27May2025 04:05:58.583] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Spawned a(n) Summoner scaled to 1 player(s). The difficulty ID is PLATINUM. The position is BlockPos{x=-1391, y=128, z=-623}
+[27May2025 04:06:17.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa has made the advancement [Artificial Friend]
+[27May2025 04:09:04.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid has made the advancement [Artificial Friend]
+[27May2025 04:10:20.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa has made the advancement [A Little Hot Rod Red]
