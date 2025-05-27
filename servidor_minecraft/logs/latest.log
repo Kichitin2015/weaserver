@@ -266,3 +266,13 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 [27May2025 02:22:52.672] [Server thread/INFO] [Scaling Health/]: Blight Zombie has died
 [27May2025 02:22:52.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Killed 43 entities]
 [27May2025 02:24:50.939] [Server thread/INFO] [Scaling Health/]: Blight Stray was killed by Ombid
+[27May2025 02:32:42.745] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #dungeons_arise:explorer_maps/monastery (dungeons_arise:monastery) took 41 ms
+[27May2025 02:32:46.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to -879.500000, 77.000000, 1056.500000]
+[27May2025 02:34:03.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid has made the advancement [Hot Stuff]
+[27May2025 02:39:02.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid has made the advancement [A Little Hot Rod Red]
+[27May2025 02:52:44.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Creative Mode]
+[27May2025 02:52:45.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Spectator Mode]
+[27May2025 02:52:49.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Creative Mode]
+[27May2025 02:52:51.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Survival Mode]
+[27May2025 02:57:27.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Spectator Mode]
+[27May2025 02:57:31.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Survival Mode]
