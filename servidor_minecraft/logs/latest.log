@@ -258,3 +258,11 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 [27May2025 02:11:35.880] [ForkJoinPool-4-worker-2/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://playerdb.co/api/player/minecraft/Ombid downloaded
 [27May2025 02:21:10.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Spectator Mode]
 [27May2025 02:21:19.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Survival Mode]
+[27May2025 02:21:43.335] [Server thread/INFO] [Scaling Health/]: Blight Zombie was killed by Ombid
+[27May2025 02:21:54.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Spectator Mode]
+[27May2025 02:22:35.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Survival Mode]
+[27May2025 02:22:47.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Killed 21 entities]
+[27May2025 02:22:52.670] [Server thread/INFO] [Scaling Health/]: Blight Zombie has died
+[27May2025 02:22:52.672] [Server thread/INFO] [Scaling Health/]: Blight Zombie has died
+[27May2025 02:22:52.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Killed 43 entities]
+[27May2025 02:24:50.939] [Server thread/INFO] [Scaling Health/]: Blight Stray was killed by Ombid

@@ -4767,3 +4767,15 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 [27May2025 02:21:16.086] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [27May2025 02:21:16.095] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [27May2025 02:21:19.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Survival Mode]
+[27May2025 02:21:43.335] [Server thread/INFO] [Scaling Health/]: Blight Zombie was killed by Ombid
+[27May2025 02:21:54.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Spectator Mode]
+[27May2025 02:22:35.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Survival Mode]
+[27May2025 02:22:47.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Killed 21 entities]
+[27May2025 02:22:52.670] [Server thread/INFO] [Scaling Health/]: Blight Zombie has died
+[27May2025 02:22:52.672] [Server thread/INFO] [Scaling Health/]: Blight Zombie has died
+[27May2025 02:22:52.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Killed 43 entities]
+[27May2025 02:24:50.939] [Server thread/INFO] [Scaling Health/]: Blight Stray was killed by Ombid
+[27May2025 02:26:16.087] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27May2025 02:26:16.096] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27May2025 02:31:16.085] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27May2025 02:31:16.093] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
