@@ -5118,6 +5118,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-05-27 05:57:40 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:magic_map": {
+    "criteria": {
+      "magic_map": "2025-05-27 05:56:13 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/stolen_magic": {
     "criteria": {
       "coded_trigger": "2025-05-27 05:12:37 +0000"
@@ -5127,6 +5139,12 @@
   "blue_skies:recipes/building_blocks/poison_stone_stairs_stonecutting_poison_stone": {
     "criteria": {
       "has_item": "2025-05-27 04:57:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-05-27 05:55:54 +0000"
     },
     "done": true
   },
@@ -5172,6 +5190,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/wood/birch_banister": {
+    "criteria": {
+      "has_item": "2025-05-27 05:57:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-05-27 05:33:17 +0000"
@@ -5204,6 +5228,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-05-27 05:57:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2025-05-27 02:42:46 +0000"
@@ -5219,6 +5249,12 @@
   "twilightforest:recipes/misc/magic_map_focus": {
     "criteria": {
       "has_berries": "2025-05-27 05:43:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-05-27 05:57:40 +0000"
     },
     "done": true
   },
@@ -5342,6 +5378,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2025-05-27 05:57:40 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_tools/horizonite_sword": {
     "criteria": {
       "has_resource": "2025-05-27 05:06:05 +0000"
@@ -5366,6 +5408,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-27 05:57:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-05-27 05:33:19 +0000"
@@ -5387,6 +5435,12 @@
   "blue_skies:recipes/blue_skies_tools/horizonite_pickaxe": {
     "criteria": {
       "has_resource": "2025-05-27 05:06:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2025-05-27 05:57:40 +0000"
     },
     "done": true
   },
@@ -5486,6 +5540,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-27 05:57:40 +0000"
+    },
+    "done": true
+  },
   "twilightforest:progress_lich": {
     "criteria": {
       "kill_naga": "2025-05-27 05:47:39 +0000"
@@ -5549,6 +5609,12 @@
   "travelersbackpack:recipes/misc/jukebox_upgrade": {
     "criteria": {
       "has_blank_upgrade": "2025-05-27 02:35:50 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/squid": {
+    "criteria": {
+      "has_ink_sac": "2025-05-27 05:53:29 +0000"
     },
     "done": true
   },
@@ -5654,6 +5720,18 @@
     },
     "done": true
   },
+  "twilightforest:magic_map_focus": {
+    "criteria": {
+      "focus": "2025-05-27 05:51:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-27 05:57:40 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/furnace_upgrade": {
     "criteria": {
       "has_blank_upgrade": "2025-05-27 02:35:50 +0000"
@@ -5687,6 +5765,12 @@
   "blue_skies:recipes/building_blocks/rough_poison_stonebrick_stonecutting_poison_stone": {
     "criteria": {
       "has_item": "2025-05-27 04:57:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2025-05-27 05:57:28 +0000"
     },
     "done": true
   },
@@ -5732,6 +5816,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-05-27 05:55:54 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_tools/horizonite_axe": {
     "criteria": {
       "has_resource": "2025-05-27 05:06:05 +0000"
@@ -5741,6 +5831,12 @@
   "blue_skies:recipes/building_blocks/poison_stone_stairs": {
     "criteria": {
       "has_item": "2025-05-27 04:57:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-27 05:57:40 +0000"
     },
     "done": true
   },
@@ -5801,6 +5897,12 @@
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2025-05-27 05:40:54 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/magic_map": {
+    "criteria": {
+      "has_item": "2025-05-27 05:51:49 +0000"
     },
     "done": true
   },

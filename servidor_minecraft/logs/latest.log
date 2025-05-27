@@ -451,3 +451,23 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 [27May2025 05:51:49.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid has made the advancement [With Fire It Writes]
 [27May2025 05:53:31.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to krinpa]
 [27May2025 05:53:59.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> secmod
+[27May2025 05:56:03.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to krinpa]
+[27May2025 05:56:13.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid has made the advancement [I Can See Forever]
+[27May2025 05:57:05.314] [Server thread/INFO] [twilightforest/]: GENERATING ORE TO BLOCK MAPPING
+[27May2025 05:58:50.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported krinpa to Ombid]
+[27May2025 06:01:30.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid has reached the goal [Strong Undead]
+[27May2025 06:01:30.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid has reached the goal [Bring Out Your Dead]
+[27May2025 06:01:30.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa has reached the goal [Bring Out Your Dead]
+[27May2025 06:01:30.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa has made the advancement [Not even afraid of death]
+[27May2025 06:01:30.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa has made the advancement [Back to childhood]
+[27May2025 06:02:55.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa was slain by Ombid
+[27May2025 06:02:55.788] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for krinpa with unique ID travelersbackpack.chicken_27.05.2025-06.02.55.dat
+[27May2025 06:02:55.788] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -7173 Y: 66 Z: 6918
+[27May2025 06:02:55.890] [Server thread/INFO] [tombstone/]: The player krinpa has successfully been saved
+[27May2025 06:02:59.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported krinpa to Ombid]
+[27May2025 06:03:01.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported krinpa to Ombid]
+[27May2025 06:03:02.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported krinpa to Ombid]
+[27May2025 06:03:02.413] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[27May2025 06:03:02.413] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[27May2025 06:03:04.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported krinpa to Ombid]
+[27May2025 06:03:08.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa has reached the goal [Discreet Search]

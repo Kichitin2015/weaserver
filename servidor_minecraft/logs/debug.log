@@ -5795,3 +5795,31 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 [27May2025 05:53:31.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to krinpa]
 [27May2025 05:53:50.729] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / twilightforest:twilight_forest] to ResourceKey[minecraft:dimension / minecraft:overworld]
 [27May2025 05:53:59.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> secmod
+[27May2025 05:56:03.093] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / twilightforest:twilight_forest]
+[27May2025 05:56:03.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to krinpa]
+[27May2025 05:56:13.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid has made the advancement [I Can See Forever]
+[27May2025 05:56:19.644] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27May2025 05:56:19.651] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27May2025 05:57:05.314] [Server thread/INFO] [twilightforest/]: GENERATING ORE TO BLOCK MAPPING
+[27May2025 05:58:50.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported krinpa to Ombid]
+[27May2025 06:01:19.645] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27May2025 06:01:19.654] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27May2025 06:01:30.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid has reached the goal [Strong Undead]
+[27May2025 06:01:30.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid has reached the goal [Bring Out Your Dead]
+[27May2025 06:01:30.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa has reached the goal [Bring Out Your Dead]
+[27May2025 06:01:30.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa has made the advancement [Not even afraid of death]
+[27May2025 06:01:30.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa has made the advancement [Back to childhood]
+[27May2025 06:02:55.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa was slain by Ombid
+[27May2025 06:02:55.788] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for krinpa with unique ID travelersbackpack.chicken_27.05.2025-06.02.55.dat
+[27May2025 06:02:55.788] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -7173 Y: 66 Z: 6918
+[27May2025 06:02:55.878] [Server thread/DEBUG] [tombstone/]: A new grave of the player krinpa was created at position [x:-7174, y:66, z:6918, dim:twilightforest:twilight_forest]
+[27May2025 06:02:55.890] [Server thread/INFO] [tombstone/]: The player krinpa has successfully been saved
+[27May2025 06:02:59.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported krinpa to Ombid]
+[27May2025 06:03:01.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported krinpa to Ombid]
+[27May2025 06:03:02.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported krinpa to Ombid]
+[27May2025 06:03:02.413] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[27May2025 06:03:02.413] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[27May2025 06:03:02.418] [Server thread/DEBUG] [twilightforest/]: Player krinpa (463284d9-6e0e-306d-9730-ebe3431451dd) respawned and received items held in storage
+[27May2025 06:03:04.000] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / twilightforest:twilight_forest]
+[27May2025 06:03:04.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported krinpa to Ombid]
+[27May2025 06:03:08.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa has reached the goal [Discreet Search]
