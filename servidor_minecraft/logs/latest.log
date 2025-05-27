@@ -393,3 +393,14 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 [27May2025 05:15:57.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to Ombid]
 [27May2025 05:23:03.872] [Server thread/INFO] [Scaling Health/]: Blight Armored Frost Spirit was killed by krinpa
 [27May2025 05:23:54.033] [Server thread/INFO] [Scaling Health/]: Blight Frost Spirit was killed by krinpa
+[27May2025 05:24:33.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to krinpa]
+[27May2025 05:28:39.689] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{krinpa})
+[27May2025 05:30:34.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to Ombid]
+[27May2025 05:31:29.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported krinpa to Ombid]
+[27May2025 05:31:46.938] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3581ms or 71 ticks behind
+[27May2025 05:31:47.047] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ombid moved too quickly! -6632.121558773048,-67.92159999847412,8313.477367517262
+[27May2025 05:32:02.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid has made the advancement [The Silence of the Forest]
+[27May2025 05:32:02.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid has made the advancement [Bug Stomper]
+[27May2025 05:32:02.740] [Server thread/INFO] [Scaling Health/]: Blight Swarm Spider was killed by Ombid
+[27May2025 05:32:50.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa has made the advancement [Bug Stomper]
+[27May2025 05:32:50.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa has made the advancement [The Silence of the Forest]

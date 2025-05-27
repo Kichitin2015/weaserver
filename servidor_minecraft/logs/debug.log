@@ -5372,3 +5372,35 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 [27May2025 05:21:16.094] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [27May2025 05:23:03.872] [Server thread/INFO] [Scaling Health/]: Blight Armored Frost Spirit was killed by krinpa
 [27May2025 05:23:54.033] [Server thread/INFO] [Scaling Health/]: Blight Frost Spirit was killed by krinpa
+[27May2025 05:24:33.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to krinpa]
+[27May2025 05:26:16.087] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27May2025 05:26:16.095] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27May2025 05:26:37.705] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / blue_skies:everbright] to ResourceKey[minecraft:dimension / minecraft:overworld]
+[27May2025 05:28:39.689] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{krinpa})
+[27May2025 05:30:34.985] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / blue_skies:everbright] to ResourceKey[minecraft:dimension / minecraft:overworld]
+[27May2025 05:30:34.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to Ombid]
+[27May2025 05:31:16.090] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27May2025 05:31:16.096] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27May2025 05:31:29.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported krinpa to Ombid]
+[27May2025 05:31:43.341] [Server thread/DEBUG] [twilightforest/]: Did not find existing portal, making a new one.
+[27May2025 05:31:43.344] [Server thread/DEBUG] [twilightforest/]: Portal destination looks unsafe, rerouting!
+[27May2025 05:31:43.357] [Server thread/DEBUG] [twilightforest/]: Safely rerouted!
+[27May2025 05:31:45.573] [Server thread/DEBUG] [twilightforest/]: Found ideal portal spot for krinpa at BlockPos{x=-7645, y=4, z=9517}
+[27May2025 05:31:45.719] [Server thread/DEBUG] [twilightforest/]: Caching Dest Portal Blocks to BlockPos{x=-1012, y=72, z=1202}
+[27May2025 05:31:45.725] [Server thread/DEBUG] [twilightforest/]: Caching Src Portal Blocks to BlockPos{x=-7645, y=4, z=9517}
+[27May2025 05:31:45.725] [Server thread/DEBUG] [twilightforest/]: Caching BlockPos{x=-1013, y=72, z=1202}
+[27May2025 05:31:45.725] [Server thread/DEBUG] [twilightforest/]: Caching BlockPos{x=-1012, y=72, z=1203}
+[27May2025 05:31:45.725] [Server thread/DEBUG] [twilightforest/]: Caching BlockPos{x=-1012, y=72, z=1202}
+[27May2025 05:31:45.725] [Server thread/DEBUG] [twilightforest/]: Caching BlockPos{x=-1013, y=72, z=1203}
+[27May2025 05:31:45.726] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / twilightforest:twilight_forest]
+[27May2025 05:31:45.726] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / twilightforest:twilight_forest]
+[27May2025 05:31:46.900] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-7645, y=4, z=9517}
+[27May2025 05:31:46.904] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / twilightforest:twilight_forest]
+[27May2025 05:31:46.904] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / twilightforest:twilight_forest]
+[27May2025 05:31:46.938] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3581ms or 71 ticks behind
+[27May2025 05:31:47.047] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ombid moved too quickly! -6632.121558773048,-67.92159999847412,8313.477367517262
+[27May2025 05:32:02.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid has made the advancement [The Silence of the Forest]
+[27May2025 05:32:02.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid has made the advancement [Bug Stomper]
+[27May2025 05:32:02.740] [Server thread/INFO] [Scaling Health/]: Blight Swarm Spider was killed by Ombid
+[27May2025 05:32:50.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa has made the advancement [Bug Stomper]
+[27May2025 05:32:50.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa has made the advancement [The Silence of the Forest]
