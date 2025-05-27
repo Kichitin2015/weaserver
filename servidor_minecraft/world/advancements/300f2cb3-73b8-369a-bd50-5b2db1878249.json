@@ -5070,6 +5070,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/building_blocks/wood/twilight_oak_wood": {
+    "criteria": {
+      "has_item": "2025-05-27 05:38:18 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/combat/horizonite_chestplate": {
     "criteria": {
       "has_item": "2025-05-27 05:06:05 +0000"
@@ -5079,6 +5085,24 @@
   "blue_skies:recipes/tools/ventium_shears": {
     "criteria": {
       "has_item": "2025-05-27 02:39:02 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/glowing_poison_stone": {
+    "criteria": {
+      "has_item": "2025-05-27 05:40:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-27 05:33:17 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:twilight_hunter": {
+    "criteria": {
+      "swarm_spider": "2025-05-27 05:32:02 +0000"
     },
     "done": true
   },
@@ -5112,11 +5136,42 @@
     },
     "done": true
   },
+  "twilightforest:recipes/building_blocks/wood/twilight_oak_slab": {
+    "criteria": {
+      "has_item": "2025-05-27 05:38:56 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/material/blasted_ironwood_ingot": {
+    "criteria": {
+      "has_item": "2025-05-27 05:40:00 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/blast_furnace_upgrade": {
     "criteria": {
       "has_blank_upgrade": "2025-05-27 02:35:50 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-27 05:33:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-27 05:33:17 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:arborist": {
+    "criteria": {
+      "twilight_oak_planks": "2025-05-27 05:38:56 +0000",
+      "twilight_oak_log": "2025-05-27 05:38:18 +0000"
+    },
+    "done": false
   },
   "blue_skies:recipes/building_blocks/glowing_poison_stone_stairs": {
     "criteria": {
@@ -5133,6 +5188,12 @@
   "blue_skies:recipes/building_blocks/rough_poison_stonebrick_stairs_stonecutting_poison_stone": {
     "criteria": {
       "has_item": "2025-05-27 04:57:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-27 05:33:17 +0000"
     },
     "done": true
   },
@@ -5157,6 +5218,12 @@
   "blue_skies:recipes/building_blocks/glowing_poison_stone_stairs_stonecutting_glowing_poison_stone": {
     "criteria": {
       "has_item": "2025-05-27 04:49:35 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/twilight_oak_chest": {
+    "criteria": {
+      "has_item": "2025-05-27 05:38:56 +0000"
     },
     "done": true
   },
@@ -5190,6 +5257,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-05-27 05:33:17 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/misc/winter_leaf_seeds": {
     "criteria": {
       "has_item": "2025-05-27 03:54:07 +0000"
@@ -5220,6 +5293,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-05-27 05:33:19 +0000"
+    },
+    "done": true
+  },
   "blue_skies:everbright/get_ventium": {
     "criteria": {
       "obtain_material": "2025-05-27 02:39:02 +0000"
@@ -5238,9 +5317,21 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/glowing_nature_stonebrick_from_glowstone": {
+    "criteria": {
+      "has_item": "2025-05-27 05:40:54 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/tanks_upgrade": {
     "criteria": {
       "has_blank_upgrade": "2025-05-27 02:35:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-05-27 05:33:19 +0000"
     },
     "done": true
   },
@@ -5259,6 +5350,30 @@
   "blue_skies:recipes/building_blocks/poison_stonebrick_wall_stonecutting_poison_stone": {
     "criteria": {
       "has_item": "2025-05-27 04:57:19 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/material/smelted_ironwood_ingot": {
+    "criteria": {
+      "has_item": "2025-05-27 05:40:00 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/twilight_oak_button": {
+    "criteria": {
+      "has_item": "2025-05-27 05:38:56 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/twilight_oak_trapdoor": {
+    "criteria": {
+      "has_item": "2025-05-27 05:38:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-27 05:33:17 +0000"
     },
     "done": true
   },
@@ -5286,6 +5401,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/building_blocks/wood/twilight_oak_planks": {
+    "criteria": {
+      "has_item": "2025-05-27 05:38:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_slime_ball": "2025-05-27 03:35:12 +0000"
@@ -5307,6 +5428,12 @@
   "blue_skies:recipes/blue_skies_tools/horizonite_hoe": {
     "criteria": {
       "has_resource": "2025-05-27 05:06:05 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/twilight_oak_gate": {
+    "criteria": {
+      "has_item": "2025-05-27 05:38:56 +0000"
     },
     "done": true
   },
@@ -5388,6 +5515,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-27 05:33:17 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/horizonite_forge": {
     "criteria": {
       "has_item": "2025-05-27 05:06:05 +0000"
@@ -5412,15 +5545,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-05-27 05:33:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-27 05:33:17 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/twilight_oak_fence": {
+    "criteria": {
+      "has_item": "2025-05-27 05:38:56 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/carved_poison_stonebrick_stonecutting_poison_stone": {
     "criteria": {
       "has_item": "2025-05-27 04:57:19 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-27 05:33:17 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/combat/horizonite_helmet": {
     "criteria": {
       "has_item": "2025-05-27 05:06:05 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/twilight_oak_sign": {
+    "criteria": {
+      "has_item": "2025-05-27 05:38:56 +0000"
     },
     "done": true
   },
@@ -5490,6 +5653,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-05-27 05:40:54 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/glowing_nature_stone": {
+    "criteria": {
+      "has_item": "2025-05-27 05:40:54 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_tools/horizonite_axe": {
     "criteria": {
       "has_resource": "2025-05-27 05:06:05 +0000"
@@ -5502,6 +5677,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-05-27 05:33:19 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/glowing_blinding_stone": {
+    "criteria": {
+      "has_item": "2025-05-27 05:40:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-05-27 04:21:29 +0000"
@@ -5511,6 +5698,12 @@
   "blue_skies:recipes/building_blocks/ventium_block": {
     "criteria": {
       "has_item": "2025-05-27 02:39:02 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/twilight_oak_door": {
+    "criteria": {
+      "has_item": "2025-05-27 05:38:56 +0000"
     },
     "done": true
   },
@@ -5532,9 +5725,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-05-27 05:40:54 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/combat/horizonite_boots": {
     "criteria": {
       "has_item": "2025-05-27 05:06:05 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:root": {
+    "criteria": {
+      "make_portal": "2025-05-27 05:31:40 +0000"
     },
     "done": true
   },
@@ -5547,9 +5752,27 @@
     },
     "done": false
   },
+  "twilightforest:recipes/redstone/wood/twilight_oak_plate": {
+    "criteria": {
+      "has_item": "2025-05-27 05:38:56 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/twilight_oak_stairs": {
+    "criteria": {
+      "has_item": "2025-05-27 05:38:56 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/cow": {
     "criteria": {
       "has_milk_bucket": "2025-05-27 04:21:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-05-27 05:33:19 +0000"
     },
     "done": true
   },
@@ -5568,6 +5791,18 @@
   "blue_skies:recipes/misc/ventium_nugget_from_ingot": {
     "criteria": {
       "has_item": "2025-05-27 02:39:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-05-27 05:33:19 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:hedge": {
+    "criteria": {
+      "swarm_spider": "2025-05-27 05:32:02 +0000"
     },
     "done": true
   },

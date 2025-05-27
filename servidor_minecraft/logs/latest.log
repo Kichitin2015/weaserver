@@ -404,3 +404,10 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 [27May2025 05:32:02.740] [Server thread/INFO] [Scaling Health/]: Blight Swarm Spider was killed by Ombid
 [27May2025 05:32:50.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa has made the advancement [Bug Stomper]
 [27May2025 05:32:50.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa has made the advancement [The Silence of the Forest]
+[27May2025 05:35:19.617] [Server thread/INFO] [Scaling Health/]: Blight Swarm Spider has died
+[27May2025 05:35:46.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to Ombid]
+[27May2025 05:36:54.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to krinpa]
+[27May2025 05:39:05.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set the weather to clear]
+[27May2025 05:41:19.843] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity minecraft:mob_spawner @ BlockPos{x=-7674, y=5, z=7995} state Block{minecraft:chest}[facing=south,type=single,waterlogged=false] invalid for ticking:
+[27May2025 05:42:39.269] [Server thread/INFO] [Scaling Health/]: Blight Swarm Spider has died
+[27May2025 05:43:52.390] [Server thread/INFO] [Scaling Health/]: Blight Tiny Bird was killed by Ombid
