@@ -390,3 +390,6 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 [27May2025 05:13:04.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to Ombid]
 [27May2025 05:13:12.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to -569.500000, 6.000000, 197.500000]
 [27May2025 05:13:51.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa has completed the challenge [Nowhere Safe]
+[27May2025 05:15:57.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to Ombid]
+[27May2025 05:23:03.872] [Server thread/INFO] [Scaling Health/]: Blight Armored Frost Spirit was killed by krinpa
+[27May2025 05:23:54.033] [Server thread/INFO] [Scaling Health/]: Blight Frost Spirit was killed by krinpa

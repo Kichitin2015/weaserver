@@ -5363,3 +5363,12 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 [27May2025 05:13:04.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to Ombid]
 [27May2025 05:13:12.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to -569.500000, 6.000000, 197.500000]
 [27May2025 05:13:51.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa has completed the challenge [Nowhere Safe]
+[27May2025 05:15:50.541] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / blue_skies:everdawn] to ResourceKey[minecraft:dimension / blue_skies:everbright]
+[27May2025 05:15:57.826] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / blue_skies:everdawn] to ResourceKey[minecraft:dimension / blue_skies:everbright]
+[27May2025 05:15:57.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to Ombid]
+[27May2025 05:16:16.086] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27May2025 05:16:16.093] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27May2025 05:21:16.087] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27May2025 05:21:16.094] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27May2025 05:23:03.872] [Server thread/INFO] [Scaling Health/]: Blight Armored Frost Spirit was killed by krinpa
+[27May2025 05:23:54.033] [Server thread/INFO] [Scaling Health/]: Blight Frost Spirit was killed by krinpa
