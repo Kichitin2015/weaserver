@@ -836,6 +836,7 @@
       "minecraft:witch": "2025-05-15 23:36:02 +0000",
       "minecraft:wither_skeleton": "2025-05-24 05:58:35 +0000",
       "minecraft:husk": "2025-05-16 01:05:55 +0000",
+      "minecraft:cave_spider": "2025-05-27 04:49:45 +0000",
       "minecraft:piglin": "2025-05-19 03:24:08 +0000",
       "minecraft:stray": "2025-05-24 05:57:16 +0000",
       "minecraft:vex": "2025-05-15 23:38:49 +0000",
@@ -3561,6 +3562,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/combat/horizonite_chestplate": {
+    "criteria": {
+      "has_item": "2025-05-27 04:49:35 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/tools/ventium_shears": {
     "criteria": {
       "has_item": "2025-05-27 04:10:20 +0000"
@@ -3570,6 +3577,12 @@
   "blue_skies:recipes/building_blocks/moonstone_block_from_moonstone": {
     "criteria": {
       "has_item": "2025-05-27 04:40:33 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/horizonite_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-05-27 04:49:35 +0000"
     },
     "done": true
   },
@@ -3588,6 +3601,12 @@
   "travelersbackpack:recipes/misc/chicken_smithing": {
     "criteria": {
       "has_chicken": "2025-05-27 04:22:00 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/horizonite_shovel": {
+    "criteria": {
+      "has_resource": "2025-05-27 04:49:35 +0000"
     },
     "done": true
   },
@@ -3633,6 +3652,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/misc/horizonite_block": {
+    "criteria": {
+      "has_item": "2025-05-27 04:49:35 +0000"
+    },
+    "done": true
+  },
   "blue_skies:everbright/get_ventium": {
     "criteria": {
       "obtain_material": "2025-05-27 04:10:20 +0000"
@@ -3645,9 +3670,27 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_tools/horizonite_sword": {
+    "criteria": {
+      "has_resource": "2025-05-27 04:49:35 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/spider": {
+    "criteria": {
+      "has_string": "2025-05-27 04:49:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
       "has_soul_sand": "2025-05-27 03:54:34 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/horizonite_pickaxe": {
+    "criteria": {
+      "has_resource": "2025-05-27 04:49:35 +0000"
     },
     "done": true
   },
@@ -3678,6 +3721,12 @@
   "blue_skies:recipes/misc/thwarted_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2025-05-27 04:40:03 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/horizonite_hoe": {
+    "criteria": {
+      "has_resource": "2025-05-27 04:49:35 +0000"
     },
     "done": true
   },
@@ -3723,6 +3772,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/horizonite_forge": {
+    "criteria": {
+      "has_item": "2025-05-27 04:49:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall": {
     "criteria": {
       "has_granite": "2025-05-27 04:14:52 +0000"
@@ -3747,6 +3802,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/combat/horizonite_helmet": {
+    "criteria": {
+      "has_item": "2025-05-27 04:49:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_granite": "2025-05-27 04:14:52 +0000"
@@ -3765,6 +3826,18 @@
     },
     "done": true
   },
+  "blue_skies:everdawn/get_horizonite": {
+    "criteria": {
+      "obtain_material": "2025-05-27 04:49:35 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:everdawn/enter_poison_dungeon": {
+    "criteria": {
+      "entered_dungeon": "2025-05-27 04:49:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/slime_block": {
     "criteria": {
       "has_slime_ball": "2025-05-27 03:38:10 +0000"
@@ -3774,6 +3847,12 @@
   "blue_skies:recipes/building_blocks/tool_box": {
     "criteria": {
       "has_item": "2025-05-27 04:10:20 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/horizonite_axe": {
+    "criteria": {
+      "has_resource": "2025-05-27 04:49:35 +0000"
     },
     "done": true
   },
@@ -3789,9 +3868,21 @@
     },
     "done": true
   },
+  "blue_skies:recipes/combat/horizonite_boots": {
+    "criteria": {
+      "has_item": "2025-05-27 04:49:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-05-27 04:14:52 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/horizonite_leggings": {
+    "criteria": {
+      "has_item": "2025-05-27 04:49:35 +0000"
     },
     "done": true
   },

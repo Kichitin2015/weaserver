@@ -5094,15 +5094,33 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/glowing_poison_stone_stairs": {
+    "criteria": {
+      "has_item": "2025-05-27 04:49:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2025-05-27 02:42:46 +0000"
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/glowing_poison_stone_slab": {
+    "criteria": {
+      "has_item": "2025-05-27 04:49:35 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/misc/regrowth_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2025-05-27 03:54:07 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/glowing_poison_stone_stairs_stonecutting_glowing_poison_stone": {
+    "criteria": {
+      "has_item": "2025-05-27 04:49:35 +0000"
     },
     "done": true
   },
@@ -5190,6 +5208,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/misc/thwarted_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-05-27 04:44:36 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/feeding_upgrade": {
     "criteria": {
       "has_blank_upgrade": "2025-05-27 02:35:50 +0000"
@@ -5205,6 +5229,12 @@
   "blue_skies:recipes/building_blocks/anvil_compat": {
     "criteria": {
       "has_item": "2025-05-27 02:39:02 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/glowing_poison_stone_slab_stonecutting_glowing_poison_stone": {
+    "criteria": {
+      "has_item": "2025-05-27 04:49:35 +0000"
     },
     "done": true
   },
@@ -5280,6 +5310,12 @@
     },
     "done": true
   },
+  "blue_skies:everdawn/enter_poison_dungeon": {
+    "criteria": {
+      "entered_dungeon": "2025-05-27 04:46:15 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/magnet_upgrade": {
     "criteria": {
       "has_blank_upgrade": "2025-05-27 02:35:50 +0000"
@@ -5324,7 +5360,8 @@
   },
   "blue_skies:everdawn/kill_bug": {
     "criteria": {
-      "kill_emberback": "2025-05-27 04:32:42 +0000"
+      "kill_emberback": "2025-05-27 04:32:42 +0000",
+      "kill_venom_spider": "2025-05-27 04:47:50 +0000"
     },
     "done": false
   },

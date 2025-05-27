@@ -354,3 +354,11 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 [27May2025 04:39:47.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid has completed the challenge [Potent Opponent!]
 [27May2025 04:39:47.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa has completed the challenge [Potent Opponent!]
 [27May2025 04:41:43.766] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Spawned a(n) Alchemist scaled to 1 player(s). The difficulty ID is PLATINUM. The position is BlockPos{x=129, y=121, z=945}
+[27May2025 04:45:29.050] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element blue_skies:everdawn_blinding_dungeon took 0 ms
+[27May2025 04:45:59.486] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element blue_skies:poison_dungeon took 138 ms
+[27May2025 04:46:02.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to -575.500000, 121.000000, 176.500000]
+[27May2025 04:46:15.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid has reached the goal [The Spider's Lair]
+[27May2025 04:48:18.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to Ombid]
+[27May2025 04:49:04.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa has reached the goal [The Spider's Lair]
+[27May2025 04:49:35.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa has made the advancement [Warm Inside]
+[27May2025 04:51:11.672] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: krinpa moved wrongly!
