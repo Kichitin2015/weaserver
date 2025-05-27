@@ -5328,3 +5328,38 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 [27May2025 05:01:16.085] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [27May2025 05:01:16.093] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [27May2025 05:01:33.075] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Spawned a(n) Arachnarch scaled to 2 player(s). The difficulty ID is GOLD. The position is BlockPos{x=-556, y=6, z=197}
+[27May2025 05:05:49.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid has completed the challenge [Squashed!]
+[27May2025 05:05:49.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa has completed the challenge [Squashed!]
+[27May2025 05:06:05.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid has made the advancement [Warm Inside]
+[27May2025 05:06:16.088] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27May2025 05:06:16.095] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27May2025 05:06:49.742] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Spawned a(n) Arachnarch scaled to 2 player(s). The difficulty ID is PLATINUM. The position is BlockPos{x=-556, y=6, z=197}
+[27May2025 05:06:55.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa has made the advancement [Purple Power!]
+[27May2025 05:07:29.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa has reached the goal [Postmortal]
+[27May2025 05:07:29.366] [Server thread/INFO] [tombstone/]: The player krinpa has successfully been saved
+[27May2025 05:08:38.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa was fatally poisoned whilst fighting Arachnarch
+[27May2025 05:08:38.271] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for krinpa with unique ID travelersbackpack.chicken_27.05.2025-05.08.38.dat
+[27May2025 05:08:38.272] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -569 Y: 6 Z: 197
+[27May2025 05:08:38.285] [Server thread/DEBUG] [tombstone/]: A new grave of the player krinpa was created at position [x:-570, y:6, z:197, dim:blue_skies:everdawn]
+[27May2025 05:08:38.287] [Server thread/INFO] [tombstone/]: The player krinpa has successfully been saved
+[27May2025 05:08:44.775] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[27May2025 05:08:44.776] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[27May2025 05:08:44.782] [Server thread/DEBUG] [twilightforest/]: Player krinpa (463284d9-6e0e-306d-9730-ebe3431451dd) respawned and received items held in storage
+[27May2025 05:08:49.500] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / blue_skies:everdawn]
+[27May2025 05:08:49.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to Ombid]
+[27May2025 05:09:06.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to -568.500000, 6.000000, 197.500000]
+[27May2025 05:11:16.085] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27May2025 05:11:16.093] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27May2025 05:12:37.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid has made the advancement [Stolen Magic]
+[27May2025 05:12:53.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa was fatally poisoned whilst fighting Arachnarch
+[27May2025 05:12:53.770] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for krinpa with unique ID travelersbackpack.chicken_27.05.2025-05.12.53.dat
+[27May2025 05:12:53.770] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -569 Y: 6 Z: 197
+[27May2025 05:12:53.785] [Server thread/DEBUG] [tombstone/]: A new grave of the player krinpa was created at position [x:-570, y:6, z:197, dim:blue_skies:everdawn]
+[27May2025 05:12:53.786] [Server thread/INFO] [tombstone/]: The player krinpa has successfully been saved
+[27May2025 05:13:00.257] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[27May2025 05:13:00.258] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[27May2025 05:13:00.264] [Server thread/DEBUG] [twilightforest/]: Player krinpa (463284d9-6e0e-306d-9730-ebe3431451dd) respawned and received items held in storage
+[27May2025 05:13:04.754] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / blue_skies:everdawn]
+[27May2025 05:13:04.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to Ombid]
+[27May2025 05:13:12.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to -569.500000, 6.000000, 197.500000]
+[27May2025 05:13:51.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa has completed the challenge [Nowhere Safe]

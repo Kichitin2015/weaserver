@@ -3586,6 +3586,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/combat/charoite_helmet": {
+    "criteria": {
+      "has_item": "2025-05-27 05:06:55 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/poison_stone_stairs_stonecutting_poison_stone": {
     "criteria": {
       "has_item": "2025-05-27 04:58:44 +0000"
@@ -3604,6 +3610,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/glowing_poison_stone_stairs": {
+    "criteria": {
+      "has_item": "2025-05-27 05:06:55 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/chicken_smithing": {
     "criteria": {
       "has_chicken": "2025-05-27 04:22:00 +0000"
@@ -3613,6 +3625,12 @@
   "blue_skies:recipes/building_blocks/rough_poison_stonebrick_stairs_stonecutting_poison_stone": {
     "criteria": {
       "has_item": "2025-05-27 04:58:44 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/glowing_poison_stone_slab": {
+    "criteria": {
+      "has_item": "2025-05-27 05:06:55 +0000"
     },
     "done": true
   },
@@ -3634,9 +3652,27 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/glowing_poison_stone_stairs_stonecutting_glowing_poison_stone": {
+    "criteria": {
+      "has_item": "2025-05-27 05:06:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_coal_block": "2025-05-27 04:13:50 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:everdawn/kill_arachnarch": {
+    "criteria": {
+      "kill_arachnarch": "2025-05-27 05:05:49 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/charoite_shovel": {
+    "criteria": {
+      "has_resource": "2025-05-27 05:06:55 +0000"
     },
     "done": true
   },
@@ -3676,9 +3712,21 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_tools/charoite_hoe": {
+    "criteria": {
+      "has_resource": "2025-05-27 05:06:55 +0000"
+    },
+    "done": true
+  },
   "blue_skies:everbright/get_ventium": {
     "criteria": {
       "obtain_material": "2025-05-27 04:10:20 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/enchanting_table_compat": {
+    "criteria": {
+      "has_item": "2025-05-27 05:06:55 +0000"
     },
     "done": true
   },
@@ -3694,9 +3742,21 @@
     },
     "done": true
   },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2025-05-27 05:07:29 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/spider": {
     "criteria": {
       "has_string": "2025-05-27 04:49:55 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/charoite_block": {
+    "criteria": {
+      "has_item": "2025-05-27 05:06:55 +0000"
     },
     "done": true
   },
@@ -3739,6 +3799,12 @@
   "travelersbackpack:recipes/misc/standard_no_tanks": {
     "criteria": {
       "has_chest": "2025-05-27 04:58:33 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/charoite_chestplate": {
+    "criteria": {
+      "has_item": "2025-05-27 05:06:55 +0000"
     },
     "done": true
   },
@@ -3796,6 +3862,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/glowing_poison_stone_slab_stonecutting_glowing_poison_stone": {
+    "criteria": {
+      "has_item": "2025-05-27 05:06:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_carpet": {
     "criteria": {
       "has_red_wool": "2025-05-27 04:31:40 +0000"
@@ -3811,6 +3883,12 @@
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2025-05-27 04:14:52 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:progression/unlock_poison_key_trade": {
+    "criteria": {
+      "click_keystone": "2025-05-27 05:01:33 +0000"
     },
     "done": true
   },
@@ -3835,6 +3913,12 @@
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2025-05-27 03:38:10 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/charoite_boots": {
+    "criteria": {
+      "has_item": "2025-05-27 05:06:55 +0000"
     },
     "done": true
   },
@@ -3880,6 +3964,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/combat/charoite_leggings": {
+    "criteria": {
+      "has_item": "2025-05-27 05:06:55 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/poison_stonebrick_stairs_stonecutting_poison_stone": {
     "criteria": {
       "has_item": "2025-05-27 04:58:44 +0000"
@@ -3910,6 +4000,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_tools/charoite_sword": {
+    "criteria": {
+      "has_resource": "2025-05-27 05:06:55 +0000"
+    },
+    "done": true
+  },
   "blue_skies:everdawn/get_horizonite": {
     "criteria": {
       "obtain_material": "2025-05-27 04:49:35 +0000"
@@ -3919,6 +4015,12 @@
   "blue_skies:everdawn/enter_poison_dungeon": {
     "criteria": {
       "entered_dungeon": "2025-05-27 04:49:04 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/jukebox_compat": {
+    "criteria": {
+      "has_item": "2025-05-27 05:06:55 +0000"
     },
     "done": true
   },
@@ -3934,6 +4036,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_tools/charoite_axe": {
+    "criteria": {
+      "has_resource": "2025-05-27 05:06:55 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_tools/horizonite_axe": {
     "criteria": {
       "has_resource": "2025-05-27 04:49:35 +0000"
@@ -3946,6 +4054,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_tools/charoite_pickaxe": {
+    "criteria": {
+      "has_resource": "2025-05-27 05:06:55 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/decorations/red_sleeping_bag": {
     "criteria": {
       "has_red_wool": "2025-05-27 04:31:40 +0000"
@@ -3955,6 +4069,12 @@
   "blue_skies:recipes/building_blocks/ventium_block": {
     "criteria": {
       "has_item": "2025-05-27 04:10:20 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:get_charoite": {
+    "criteria": {
+      "obtain_material": "2025-05-27 05:06:55 +0000"
     },
     "done": true
   },
@@ -3972,7 +4092,9 @@
   },
   "blue_skies:everdawn/kill_bug": {
     "criteria": {
-      "kill_venom_spider": "2025-05-27 04:58:50 +0000"
+      "kill_arachnarch": "2025-05-27 05:05:49 +0000",
+      "kill_venom_spider": "2025-05-27 04:58:50 +0000",
+      "kill_nested_spider": "2025-05-27 05:03:24 +0000"
     },
     "done": false
   },
