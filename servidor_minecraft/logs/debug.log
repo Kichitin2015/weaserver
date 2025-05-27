@@ -5284,3 +5284,18 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 [27May2025 04:21:16.103] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [27May2025 04:21:41.016] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / blue_skies:everbright] to ResourceKey[minecraft:dimension / minecraft:overworld]
 [27May2025 04:21:41.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to Ombid]
+[27May2025 04:24:32.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to krinpa]
+[27May2025 04:26:16.086] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27May2025 04:26:16.092] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27May2025 04:29:45.359] [Worker-Main-241/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_top_4
+[27May2025 04:31:05.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to Ombid]
+[27May2025 04:31:16.086] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27May2025 04:31:16.093] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27May2025 04:31:53.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa has made the advancement [Forever Dawn?]
+[27May2025 04:31:53.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa has made the advancement [Now You're Thinking with Portals!]
+[27May2025 04:31:53.490] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / blue_skies:everdawn]
+[27May2025 04:31:53.490] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / blue_skies:everdawn]
+[27May2025 04:31:55.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid has made the advancement [Forever Dawn?]
+[27May2025 04:31:55.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid has made the advancement [Now You're Thinking with Portals!]
+[27May2025 04:31:55.075] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / blue_skies:everdawn]
+[27May2025 04:31:55.075] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / blue_skies:everdawn]

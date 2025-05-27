@@ -19,6 +19,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-05-27 04:27:51 +0000",
       "minecraft:taiga": "2025-05-15 07:08:01 +0000",
       "minecraft:frozen_river": "2025-05-15 05:51:19 +0000",
       "minecraft:birch_forest": "2025-05-15 08:01:23 +0000",
@@ -5074,6 +5075,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/fox": {
+    "criteria": {
+      "has_sweet_berries": "2025-05-27 04:21:27 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/blast_furnace_upgrade": {
     "criteria": {
       "has_blank_upgrade": "2025-05-27 02:35:50 +0000"
@@ -5122,6 +5129,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-27 04:21:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_rose_bush": {
     "criteria": {
       "has_rose_bush": "2025-05-27 02:49:08 +0000"
@@ -5146,6 +5159,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-27 04:21:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_slime_ball": "2025-05-27 03:35:12 +0000"
@@ -5155,6 +5174,12 @@
   "travelersbackpack:recipes/misc/feeding_upgrade": {
     "criteria": {
       "has_blank_upgrade": "2025-05-27 02:35:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-27 04:21:29 +0000"
     },
     "done": true
   },
@@ -5188,6 +5213,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-27 04:21:29 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/tools/ventium_bucket": {
     "criteria": {
       "has_item": "2025-05-27 02:39:02 +0000"
@@ -5212,6 +5243,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-27 04:21:29 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/void_upgrade": {
     "criteria": {
       "has_blank_upgrade": "2025-05-27 02:35:50 +0000"
@@ -5233,6 +5270,12 @@
   "blue_skies:recipes/building_blocks/tool_box": {
     "criteria": {
       "has_item": "2025-05-27 02:39:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-27 04:21:29 +0000"
     },
     "done": true
   },
