@@ -305,3 +305,16 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 [27May2025 03:11:04.965] [ForkJoinPool-4-worker-3/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player krinpa[463284d9-6e0e-306d-9730-ebe3431451dd]
 [27May2025 03:11:05.340] [ForkJoinPool-4-worker-3/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/krinpa
 [27May2025 03:18:13.723] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: krinpa moved too quickly! -9.965889279756084,0.0,2.7956001282526586
+[27May2025 03:32:11.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ombid> ok
+[27May2025 03:32:25.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to krinpa]
+[27May2025 03:33:47.315] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Spawned a(n) Starlit Crusher scaled to 1 player(s). The difficulty ID is GOLD. The position is BlockPos{x=-3559, y=149, z=-711}
+[27May2025 03:37:35.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to Ombid]
+[27May2025 03:38:37.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa was slain by Starlit Crusher
+[27May2025 03:38:37.498] [Server thread/INFO] [tombstone/]: The player krinpa has successfully been saved
+[27May2025 03:38:37.498] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: krinpa moved too quickly! -16.866798372093854,-1.0,-1.555422730395776
+[27May2025 03:38:44.261] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[27May2025 03:38:44.262] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[27May2025 03:39:01.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to -3541.500000, 149.000000, -710.500000]
+[27May2025 03:39:12.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to Ombid]
+[27May2025 03:39:30.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to -3540.500000, 149.000000, -709.500000]
+[27May2025 03:39:35.786] [Server thread/INFO] [Scaling Health/]: Blight Armored Frost Spirit was killed by Ombid

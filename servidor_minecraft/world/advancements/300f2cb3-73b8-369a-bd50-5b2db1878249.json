@@ -5128,6 +5128,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-05-27 03:35:12 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/feeding_upgrade": {
     "criteria": {
       "has_blank_upgrade": "2025-05-27 02:35:50 +0000"
@@ -5149,6 +5155,12 @@
   "travelersbackpack:recipes/misc/jukebox_upgrade": {
     "criteria": {
       "has_blank_upgrade": "2025-05-27 02:35:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-05-27 03:35:12 +0000"
     },
     "done": true
   },
@@ -5185,6 +5197,12 @@
   "travelersbackpack:recipes/misc/magnet_upgrade": {
     "criteria": {
       "has_blank_upgrade": "2025-05-27 02:35:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-05-27 03:35:12 +0000"
     },
     "done": true
   },

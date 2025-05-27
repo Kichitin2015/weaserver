@@ -3559,5 +3559,29 @@
     },
     "done": true
   },
+  "blue_skies:progression/unlock_nature_key_trade": {
+    "criteria": {
+      "click_keystone": "2025-05-27 03:33:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-05-27 03:38:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-05-27 03:38:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-05-27 03:38:10 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
