@@ -6015,9 +6015,10 @@
   },
   "twilightforest:progress_glacier": {
     "criteria": {
-      "previous_progression": "2025-05-27 06:08:03 +0000"
+      "previous_progression": "2025-05-27 06:08:03 +0000",
+      "queen": "2025-05-27 06:39:27 +0000"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:recipes/misc/alpha_yeti_banner_pattern": {
     "criteria": {
@@ -6055,9 +6056,21 @@
     },
     "done": true
   },
+  "twilightforest:progress_merge": {
+    "criteria": {
+      "snow_queen": "2025-05-27 06:39:27 +0000"
+    },
+    "done": false
+  },
   "travelersbackpack:recipes/misc/snow": {
     "criteria": {
       "has_snowball": "2025-05-27 06:23:33 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/snow_queen_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-05-27 06:39:29 +0000"
     },
     "done": true
   },

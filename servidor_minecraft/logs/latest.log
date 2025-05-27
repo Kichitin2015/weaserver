@@ -529,3 +529,24 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 [27May2025 06:32:32.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to Ombid]
 [27May2025 06:33:48.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Spectator Mode]
 [27May2025 06:33:51.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Survival Mode]
+[27May2025 06:35:58.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported Ombid to -6909.500000, 250.000000, 6374.500000]
+[27May2025 06:36:29.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported Ombid to -6908.500000, 700.000000, 6374.500000]
+[27May2025 06:36:34.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Spectator Mode]
+[27May2025 06:36:35.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Creative Mode]
+[27May2025 06:36:36.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to krinpa]
+[27May2025 06:36:44.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Survival Mode]
+[27May2025 06:38:49.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa was slain by Ice Crystal
+[27May2025 06:38:49.269] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for krinpa with unique ID travelersbackpack.chicken_27.05.2025-06.38.49.dat
+[27May2025 06:38:49.269] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -6909 Y: 171 Z: 6376
+[27May2025 06:38:49.285] [Server thread/INFO] [tombstone/]: The player krinpa has successfully been saved
+[27May2025 06:38:55.929] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[27May2025 06:38:55.929] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[27May2025 06:38:59.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to Ombid]
+[27May2025 06:39:27.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid has reached the goal [Clear Skies]
+[27May2025 06:40:07.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported Ombid to -1999.500000, 0.000000, 200.500000]
+[27May2025 06:40:17.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to Ombid]
+[27May2025 06:40:47.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to -6998.500000, 70.000000, 6300.500000]
+[27May2025 06:40:54.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to -6907.500000, 1000.000000, 6374.500000]
+[27May2025 06:41:03.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> no
+[27May2025 06:41:08.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> no traigoganas
+[27May2025 06:41:36.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> :,V
