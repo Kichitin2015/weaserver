@@ -5076,6 +5076,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/poison_stone_stairs_stonecutting_poison_stone": {
+    "criteria": {
+      "has_item": "2025-05-27 04:57:19 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/fox": {
     "criteria": {
       "has_sweet_berries": "2025-05-27 04:21:27 +0000"
@@ -5106,6 +5112,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/rough_poison_stonebrick_stairs_stonecutting_poison_stone": {
+    "criteria": {
+      "has_item": "2025-05-27 04:57:19 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/glowing_poison_stone_slab": {
     "criteria": {
       "has_item": "2025-05-27 04:49:35 +0000"
@@ -5133,6 +5145,12 @@
   "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
       "has_glow_ink_sac": "2025-05-27 02:59:13 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/poison_stonebrick_stonecutting_poison_stone": {
+    "criteria": {
+      "has_item": "2025-05-27 04:57:19 +0000"
     },
     "done": true
   },
@@ -5184,6 +5202,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/poison_stonebrick_wall_stonecutting_poison_stone": {
+    "criteria": {
+      "has_item": "2025-05-27 04:57:19 +0000"
+    },
+    "done": true
+  },
   "blue_skies:progression/unlock_everdawn_blinding_key_trade": {
     "criteria": {
       "click_keystone": "2025-05-27 04:37:26 +0000"
@@ -5193,6 +5217,12 @@
   "blue_skies:recipes/misc/horizonite_nugget_from_blasting_horizonite_chestplate": {
     "criteria": {
       "has_item": "2025-05-27 02:53:28 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/poison_stone_slab_stonecutting_poison_stone": {
+    "criteria": {
+      "has_item": "2025-05-27 04:57:19 +0000"
     },
     "done": true
   },
@@ -5220,6 +5250,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/poison_stone_slab": {
+    "criteria": {
+      "has_item": "2025-05-27 04:57:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
     "criteria": {
       "has_mossy_cobblestone": "2025-05-27 04:21:29 +0000"
@@ -5229,6 +5265,18 @@
   "blue_skies:recipes/building_blocks/anvil_compat": {
     "criteria": {
       "has_item": "2025-05-27 02:39:02 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/rough_poison_stonebrick_slab_stonecutting_poison_stone": {
+    "criteria": {
+      "has_item": "2025-05-27 04:57:19 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/poison_stone_pillar_stonecutting_poison_stone": {
+    "criteria": {
+      "has_item": "2025-05-27 04:57:19 +0000"
     },
     "done": true
   },
@@ -5253,6 +5301,12 @@
   "travelersbackpack:recipes/misc/jukebox_upgrade": {
     "criteria": {
       "has_blank_upgrade": "2025-05-27 02:35:50 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/poison_stonebrick_slab_stonecutting_poison_stone": {
+    "criteria": {
+      "has_item": "2025-05-27 04:57:19 +0000"
     },
     "done": true
   },
@@ -5286,6 +5340,18 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/carved_poison_stonebrick_stonecutting_poison_stone": {
+    "criteria": {
+      "has_item": "2025-05-27 04:57:19 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/poison_stonebrick_stairs_stonecutting_poison_stone": {
+    "criteria": {
+      "has_item": "2025-05-27 04:57:19 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/furnace_upgrade": {
     "criteria": {
       "has_blank_upgrade": "2025-05-27 02:35:50 +0000"
@@ -5307,6 +5373,12 @@
   "travelersbackpack:recipes/misc/void_upgrade": {
     "criteria": {
       "has_blank_upgrade": "2025-05-27 02:35:50 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/rough_poison_stonebrick_stonecutting_poison_stone": {
+    "criteria": {
+      "has_item": "2025-05-27 04:57:19 +0000"
     },
     "done": true
   },
@@ -5334,6 +5406,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/poison_stone_stairs": {
+    "criteria": {
+      "has_item": "2025-05-27 04:57:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-05-27 04:21:29 +0000"
@@ -5355,6 +5433,12 @@
   "travelersbackpack:recipes/misc/magma_cube_smithing": {
     "criteria": {
       "has_magma_cube": "2025-05-27 02:34:30 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/poison_stonebrick": {
+    "criteria": {
+      "has_item": "2025-05-27 04:57:19 +0000"
     },
     "done": true
   },

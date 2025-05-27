@@ -362,3 +362,6 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 [27May2025 04:49:04.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa has reached the goal [The Spider's Lair]
 [27May2025 04:49:35.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa has made the advancement [Warm Inside]
 [27May2025 04:51:11.672] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: krinpa moved wrongly!
+[27May2025 04:58:27.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to Ombid]
+[27May2025 05:01:04.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to Ombid]
+[27May2025 05:01:33.075] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Spawned a(n) Arachnarch scaled to 2 player(s). The difficulty ID is GOLD. The position is BlockPos{x=-556, y=6, z=197}
