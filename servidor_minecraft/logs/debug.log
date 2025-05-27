@@ -5823,3 +5823,15 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 [27May2025 06:03:04.000] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / twilightforest:twilight_forest]
 [27May2025 06:03:04.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported krinpa to Ombid]
 [27May2025 06:03:08.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa has reached the goal [Discreet Search]
+[27May2025 06:04:59.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to Ombid]
+[27May2025 06:06:15.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported krinpa to Ombid]
+[27May2025 06:06:19.636] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27May2025 06:06:19.643] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27May2025 06:07:06.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to Ombid]
+[27May2025 06:07:24.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported krinpa to Ombid]
+[27May2025 06:08:03.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid has reached the goal [Alpha Fur]
+[27May2025 06:08:03.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa has reached the goal [Alpha Fur]
+[27May2025 06:08:08.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported krinpa to Ombid]
+[27May2025 06:11:19.642] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27May2025 06:11:19.650] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27May2025 06:12:08.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported krinpa to Ombid]
