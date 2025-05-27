@@ -4460,6 +4460,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/strong_undead": {
+    "criteria": {
+      "coded_trigger": "2025-05-27 06:53:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_slab": {
     "criteria": {
       "has_planks": "2025-05-27 06:03:08 +0000"
@@ -4469,6 +4475,12 @@
   "tombstone:adventure/create_voodoo_poppet": {
     "criteria": {
       "has_voodoo_poppet": "2025-05-27 06:01:30 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_familiar_receptacle": {
+    "criteria": {
+      "has_receptacle_of_familiar": "2025-05-27 06:53:24 +0000"
     },
     "done": true
   },
@@ -4489,6 +4501,12 @@
       "has_item": "2025-05-27 06:49:24 +0000"
     },
     "done": true
+  },
+  "twilightforest:progress_ur_ghast": {
+    "criteria": {
+      "previous_progression": "2025-05-27 06:55:12 +0000"
+    },
+    "done": false
   },
   "travelersbackpack:recipes/misc/ocelot": {
     "criteria": {
@@ -4577,9 +4595,10 @@
   },
   "twilightforest:progress_knights": {
     "criteria": {
-      "previous_progression": "2025-05-27 06:46:25 +0000"
+      "previous_progression": "2025-05-27 06:46:25 +0000",
+      "was_in_fight": "2025-05-27 06:55:12 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
     "criteria": {

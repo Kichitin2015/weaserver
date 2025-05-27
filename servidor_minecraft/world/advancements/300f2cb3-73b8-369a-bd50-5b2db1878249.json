@@ -6058,6 +6058,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/use_frost_resistance": {
+    "criteria": {
+      "has_magic_scroll": "2025-05-27 06:58:04 +0000"
+    },
+    "done": true
+  },
   "twilightforest:progress_merge": {
     "criteria": {
       "snow_queen": "2025-05-27 06:39:27 +0000"
@@ -6094,6 +6100,18 @@
     },
     "done": true
   },
+  "tombstone:adventure/create_familiar_receptacle": {
+    "criteria": {
+      "has_receptacle_of_familiar": "2025-05-27 06:55:12 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_ur_ghast": {
+    "criteria": {
+      "previous_progression": "2025-05-27 06:55:12 +0000"
+    },
+    "done": false
+  },
   "travelersbackpack:recipes/misc/ocelot": {
     "criteria": {
       "has_cod": "2025-05-27 06:48:13 +0000"
@@ -6102,13 +6120,20 @@
   },
   "twilightforest:progress_knights": {
     "criteria": {
+      "all_knights": "2025-05-27 06:55:12 +0000",
       "previous_progression": "2025-05-27 06:46:25 +0000"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:recipes/building_blocks/wood/aurora_slab_slab": {
     "criteria": {
       "has_item": "2025-05-27 06:26:16 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/knight_phantom_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-05-27 06:55:25 +0000"
     },
     "done": true
   },
@@ -6127,6 +6152,12 @@
   "twilightforest:recipes/building_blocks/mossy_underbrick": {
     "criteria": {
       "has_item": "2025-05-27 06:50:34 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2025-05-27 06:57:53 +0000"
     },
     "done": true
   },

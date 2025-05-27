@@ -6292,3 +6292,15 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 [27May2025 06:55:12.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid has reached the goal [Carminite Acclimation]
 [27May2025 06:55:12.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa has reached the goal [Carminite Acclimation]
 [27May2025 06:55:12.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid has made the advancement [Your First Receptacle]
+[27May2025 06:56:19.637] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27May2025 06:56:19.645] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27May2025 06:57:52.548] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / twilightforest:twilight_forest] to ResourceKey[minecraft:dimension / blue_skies:everbright]
+[27May2025 06:57:53.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid has made the advancement [Magic Writing]
+[27May2025 06:58:04.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid has reached the goal [Powder Snow Walk]
+[27May2025 07:00:44.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Spectator Mode]
+[27May2025 07:00:49.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Survival Mode]
+[27May2025 07:01:19.646] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27May2025 07:01:19.654] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27May2025 07:01:42.691] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / blue_skies:everbright] to ResourceKey[minecraft:dimension / twilightforest:twilight_forest]
+[27May2025 07:01:42.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to Ombid]
+[27May2025 07:04:48.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to Ombid]
